@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wordle-simulator/static/css/main.1a2c091f.css",
-    "main.js": "/wordle-simulator/static/js/main.6240884e.js",
+    "main.js": "/wordle-simulator/static/js/main.7505ca62.js",
     "index.html": "/wordle-simulator/index.html",
     "main.1a2c091f.css.map": "/wordle-simulator/static/css/main.1a2c091f.css.map",
-    "main.6240884e.js.map": "/wordle-simulator/static/js/main.6240884e.js.map"
+    "main.7505ca62.js.map": "/wordle-simulator/static/js/main.7505ca62.js.map"
   },
   "entrypoints": [
     "static/css/main.1a2c091f.css",
-    "static/js/main.6240884e.js"
+    "static/js/main.7505ca62.js"
   ]
 }
