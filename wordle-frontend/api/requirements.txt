@@ -10,7 +10,7 @@ joblib==1.2.0
 MarkupSafe==2.1.2
 nltk==3.8.1
 pampy==0.3.0
-python-dotenv==1.0.0
+python-dotenv==0.19.2
 regex==2022.10.31
 six==1.16.0
 tqdm==4.65.0
