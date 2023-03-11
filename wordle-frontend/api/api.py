@@ -1,11 +1,11 @@
 from flask import Flask, jsonify,request
 from game import Game
 from engine import Engine
-# from flask_cors import CORS, cross_origin
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
-# cors = CORS(app)
-# app.config['CORS_HEADERS'] = 'Content-Type'
+cors = CORS(app, origins="https://annna7.github.io/wordle-simulator")
+app.config['CORS_HEADERS'] = 'Content-Type'
 
 game = Game()
 engine = Engine()
