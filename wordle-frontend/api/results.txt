@@ -1,0 +1,4182 @@
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 2, 0, 0]
+which [2, 2, 2, 2, 2]
+which   3
+tears [2, 1, 0, 2, 0]
+there [2, 2, 2, 2, 2]
+there   2
+tears [2, 1, 0, 1, 0]
+threw [2, 2, 1, 1, 0]
+their [2, 2, 2, 2, 2]
+their   3
+tears [1, 0, 1, 0, 0]
+habit [0, 1, 1, 0, 2]
+about [2, 2, 2, 2, 2]
+about   3
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 0, 0, 2]
+would [2, 2, 2, 2, 2]
+would   3
+tears [2, 1, 0, 0, 1]
+these [2, 2, 2, 2, 2]
+these   2
+tears [1, 1, 0, 1, 0]
+wrote [0, 1, 1, 1, 1]
+other [2, 2, 2, 2, 2]
+other   3
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 2, 0, 2]
+words [2, 2, 2, 2, 2]
+words   3
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 0, 0, 2]
+would [0, 2, 2, 2, 2]
+could [2, 2, 2, 2, 2]
+could   4
+tears [1, 1, 0, 1, 0]
+wrote [2, 2, 0, 2, 2]
+write [2, 2, 2, 2, 2]
+write   3
+tears [1, 0, 0, 1, 1]
+first [2, 2, 2, 2, 2]
+first   2
+tears [1, 1, 1, 1, 0]
+water [2, 2, 2, 2, 2]
+water   2
+tears [1, 1, 1, 1, 0]
+water [0, 1, 2, 2, 2]
+after [2, 2, 2, 2, 2]
+after   3
+tears [0, 1, 0, 2, 0]
+where [2, 2, 2, 2, 2]
+where   2
+tears [1, 0, 0, 1, 0]
+forth [0, 0, 1, 1, 1]
+right [2, 2, 2, 2, 2]
+right   3
+tears [2, 0, 0, 0, 0]
+thing [2, 2, 2, 2, 0]
+think [2, 2, 2, 2, 2]
+think   3
+tears [2, 1, 0, 1, 0]
+threw [2, 2, 2, 2, 0]
+three [2, 2, 2, 2, 2]
+three   3
+tears [0, 2, 2, 2, 2]
+years [2, 2, 2, 2, 2]
+years   2
+tears [0, 1, 2, 0, 0]
+blame [0, 2, 2, 0, 2]
+place [2, 2, 2, 2, 2]
+place   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 0, 2, 0]
+sound [2, 2, 2, 2, 2]
+sound   3
+tears [1, 1, 1, 1, 0]
+water [0, 1, 1, 1, 1]
+great [2, 2, 2, 2, 2]
+great   3
+tears [0, 0, 2, 0, 0]
+claim [0, 0, 2, 2, 0]
+again [2, 2, 2, 2, 2]
+again   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 2, 0, 1]
+still [2, 2, 2, 2, 2]
+still   3
+tears [0, 1, 0, 2, 0]
+where [0, 0, 2, 2, 1]
+every [2, 2, 2, 2, 2]
+every   3
+tears [0, 0, 2, 0, 1]
+small [2, 2, 2, 2, 2]
+small   2
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 2, 2]
+found [2, 2, 2, 2, 2]
+found   3
+tears [2, 1, 0, 0, 1]
+these [2, 2, 1, 2, 2]
+those [2, 2, 2, 2, 2]
+those   3
+tears [0, 2, 0, 1, 0]
+never [2, 2, 2, 2, 2]
+never   2
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 1]
+under [2, 2, 2, 2, 2]
+under   3
+tears [1, 0, 0, 0, 0]
+month [2, 0, 0, 1, 1]
+might [2, 2, 2, 2, 2]
+might   3
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 0]
+uncle [0, 0, 0, 2, 2]
+while [2, 2, 2, 2, 2]
+while   4
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 0, 0, 2]
+house [2, 2, 2, 2, 2]
+house   3
+tears [0, 0, 0, 1, 0]
+round [1, 2, 0, 0, 2]
+world [2, 2, 2, 2, 2]
+world   3
+tears [0, 2, 0, 0, 0]
+bench [2, 2, 0, 0, 0]
+below [2, 2, 2, 2, 2]
+below   3
+tears [0, 1, 1, 0, 1]
+sauce [1, 1, 0, 0, 1]
+asked [2, 2, 2, 2, 2]
+asked   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 2, 2, 0]
+going [2, 2, 2, 2, 2]
+going   3
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 2, 1, 0]
+large [2, 2, 2, 2, 2]
+large   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 1, 1, 0]
+until [2, 2, 2, 2, 2]
+until   3
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 1, 1, 1]
+along [2, 2, 2, 2, 2]
+along   3
+tears [0, 0, 2, 0, 1]
+small [2, 0, 2, 2, 2]
+shall [2, 2, 2, 2, 2]
+shall   3
+tears [0, 2, 0, 0, 0]
+bench [2, 2, 1, 0, 0]
+being [2, 2, 2, 2, 2]
+being   3
+tears [1, 1, 0, 0, 0]
+fleet [1, 0, 1, 2, 1]
+often [2, 2, 2, 2, 2]
+often   3
+tears [1, 1, 1, 1, 0]
+water [0, 2, 1, 1, 1]
+earth [2, 2, 2, 2, 2]
+earth   3
+tears [0, 2, 1, 0, 0]
+legal [0, 2, 2, 2, 0]
+began [2, 2, 2, 2, 2]
+began   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 1, 2, 2]
+since [2, 2, 2, 2, 2]
+since   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 0, 0, 1]
+study [2, 2, 2, 2, 2]
+study   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 1, 1, 1]
+night [2, 2, 2, 2, 2]
+night   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 1]
+light [2, 2, 2, 2, 2]
+light   3
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 1, 0, 2]
+above [2, 2, 2, 2, 2]
+above   3
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 1, 2, 0]
+paper [2, 2, 2, 2, 2]
+paper   3
+tears [1, 0, 1, 1, 2]
+parts [2, 2, 2, 2, 2]
+parts   2
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 2, 0]
+young [2, 2, 2, 2, 2]
+young   3
+tears [1, 0, 0, 2, 1]
+short [2, 0, 2, 2, 1]
+story [2, 2, 2, 2, 2]
+story   3
+tears [1, 0, 0, 0, 0]
+month [0, 2, 1, 1, 0]
+point [2, 2, 2, 2, 2]
+point   3
+tears [2, 1, 0, 0, 2]
+tunes [2, 0, 0, 2, 2]
+times [2, 2, 2, 2, 2]
+times   3
+tears [0, 2, 2, 2, 0]
+heard [2, 2, 2, 2, 2]
+heard   2
+tears [0, 1, 0, 0, 0]
+loved [1, 1, 0, 1, 0]
+whole [2, 2, 2, 2, 2]
+whole   3
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 1, 1]
+white [2, 2, 2, 2, 2]
+white   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 2, 2, 0]
+given [2, 2, 2, 2, 2]
+given   3
+tears [0, 2, 2, 0, 2]
+beams [0, 2, 2, 1, 2]
+means [2, 2, 2, 2, 2]
+means   3
+tears [0, 0, 0, 0, 1]
+shiny [1, 0, 1, 0, 0]
+music [2, 2, 2, 2, 2]
+music   3
+tears [0, 1, 0, 0, 2]
+miles [2, 2, 2, 2, 2]
+miles   2
+tears [2, 0, 0, 0, 0]
+thing [2, 2, 2, 2, 2]
+thing   2
+tears [2, 0, 1, 0, 0]
+total [2, 2, 1, 2, 0]
+today [2, 2, 2, 2, 2]
+today   3
+tears [1, 1, 1, 1, 0]
+water [0, 2, 2, 2, 2]
+later [2, 2, 2, 2, 2]
+later   3
+tears [0, 0, 0, 0, 1]
+shiny [1, 0, 2, 2, 0]
+using [2, 2, 2, 2, 2]
+using   3
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 0, 2, 0]
+money [2, 2, 2, 2, 2]
+money   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 1, 2, 2]
+lines [2, 2, 2, 2, 2]
+lines   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 2, 1]
+order [2, 2, 2, 2, 2]
+order   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 1, 0, 0]
+group [2, 2, 2, 2, 2]
+group   3
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 1, 1, 0]
+among [2, 2, 2, 2, 2]
+among   3
+tears [0, 2, 2, 2, 0]
+heard [0, 2, 2, 2, 0]
+learn [2, 2, 2, 2, 2]
+learn   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 1, 0]
+known [2, 2, 2, 2, 2]
+known   3
+tears [0, 1, 2, 0, 1]
+shape [2, 0, 2, 1, 2]
+space [2, 2, 2, 2, 2]
+space   3
+tears [2, 1, 1, 0, 0]
+table [2, 2, 2, 2, 2]
+table   2
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 2, 1, 0]
+large [1, 2, 2, 0, 1]
+early [2, 2, 2, 2, 2]
+early   4
+tears [2, 1, 0, 1, 2]
+trees [2, 2, 2, 2, 2]
+trees   2
+tears [1, 0, 0, 2, 1]
+short [2, 2, 2, 2, 2]
+short   2
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 2, 0, 2]
+hands [2, 2, 2, 2, 2]
+hands   3
+tears [1, 1, 2, 0, 1]
+state [2, 2, 2, 2, 2]
+state   2
+tears [0, 0, 2, 0, 0]
+claim [1, 2, 2, 0, 0]
+black [2, 2, 2, 2, 2]
+black   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 2, 0, 1, 0]
+shown [2, 2, 2, 2, 2]
+shown   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 0, 0, 1]
+study [2, 2, 0, 1, 0]
+stood [2, 2, 2, 2, 2]
+stood   4
+tears [1, 0, 0, 1, 0]
+forth [2, 1, 1, 1, 0]
+front [2, 2, 2, 2, 2]
+front   3
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 1, 1, 0]
+voice [2, 2, 2, 2, 2]
+voice   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [2, 2, 2, 2, 2]
+kinds   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 1, 2, 2]
+makes [2, 2, 2, 2, 2]
+makes   3
+tears [0, 1, 0, 0, 2]
+miles [1, 0, 0, 2, 2]
+comes [2, 2, 2, 2, 2]
+comes   3
+tears [0, 1, 0, 0, 1]
+slice [1, 2, 0, 1, 2]
+close [2, 2, 2, 2, 2]
+close   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [2, 2, 2, 2, 2]
+power   3
+tears [0, 1, 0, 0, 0]
+loved [2, 0, 2, 2, 2]
+lived [2, 2, 2, 2, 2]
+lived   3
+tears [0, 1, 0, 0, 0]
+loved [1, 2, 1, 2, 0]
+vowel [2, 2, 2, 2, 2]
+vowel   3
+tears [2, 1, 1, 0, 0]
+table [2, 2, 0, 0, 1]
+taken [2, 2, 2, 2, 2]
+taken   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 0]
+built [2, 2, 2, 2, 2]
+built   3
+tears [1, 2, 2, 2, 0]
+heart [2, 2, 2, 2, 2]
+heart   2
+tears [0, 2, 2, 1, 0]
+ready [2, 2, 2, 2, 2]
+ready   2
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 1, 1]
+white [0, 0, 2, 2, 2]
+quite [2, 2, 2, 2, 2]
+quite   4
+tears [0, 0, 2, 0, 2]
+glass [0, 2, 2, 2, 2]
+class [2, 2, 2, 2, 2]
+class   3
+tears [0, 0, 0, 1, 0]
+round [1, 0, 0, 2, 0]
+bring [2, 2, 2, 2, 2]
+bring   3
+tears [0, 0, 0, 1, 0]
+round [2, 2, 2, 2, 2]
+round   2
+tears [0, 1, 0, 1, 1]
+horse [2, 2, 2, 2, 2]
+horse   2
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [1, 1, 2, 0, 2]
+shows [2, 2, 2, 2, 2]
+shows   4
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 0]
+piece [2, 2, 2, 2, 2]
+piece   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 2, 0]
+green [2, 2, 2, 2, 2]
+green   3
+tears [1, 0, 2, 0, 1]
+slant [2, 0, 2, 2, 1]
+stand [2, 2, 2, 2, 2]
+stand   3
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 2, 0, 2]
+birds [2, 2, 2, 2, 2]
+birds   3
+tears [1, 0, 2, 2, 1]
+start [2, 2, 2, 2, 2]
+start   2
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 0]
+river [2, 2, 2, 2, 2]
+river   3
+tears [2, 1, 0, 1, 0]
+threw [2, 0, 1, 2, 0]
+tried [2, 2, 2, 2, 2]
+tried   3
+tears [1, 2, 2, 0, 1]
+least [2, 2, 2, 2, 2]
+least   2
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 2]
+field [2, 2, 2, 2, 2]
+field   3
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 0, 0, 2]
+house [1, 1, 0, 2, 2]
+whose [2, 2, 2, 2, 2]
+whose   4
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 2, 0, 2]
+birds [0, 2, 2, 0, 2]
+girls [2, 2, 2, 2, 2]
+girls   4
+tears [0, 2, 2, 0, 0]
+peace [0, 2, 2, 0, 2]
+leave [2, 2, 2, 2, 2]
+leave   3
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 0, 1]
+added [2, 2, 2, 2, 2]
+added   3
+tears [0, 0, 0, 1, 0]
+round [1, 2, 0, 0, 0]
+color [2, 2, 2, 2, 2]
+color   3
+tears [2, 0, 0, 2, 0]
+third [2, 2, 2, 2, 2]
+third   2
+tears [0, 0, 0, 2, 2]
+hours [2, 2, 2, 2, 2]
+hours   2
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 2, 2, 2]
+moved [2, 2, 2, 2, 2]
+moved   3
+tears [1, 0, 2, 0, 0]
+plant [2, 2, 2, 2, 2]
+plant   2
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 2, 2, 1]
+doing [2, 2, 2, 2, 2]
+doing   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 2, 2, 2]
+names [2, 2, 2, 2, 2]
+names   3
+tears [0, 0, 0, 1, 2]
+forms [2, 2, 2, 2, 2]
+forms   2
+tears [0, 2, 2, 0, 0]
+peace [0, 2, 2, 0, 1]
+heavy [2, 2, 2, 2, 2]
+heavy   3
+tears [0, 1, 1, 0, 2]
+games [0, 1, 0, 1, 2]
+ideas [2, 2, 2, 2, 2]
+ideas   3
+tears [0, 1, 0, 1, 0]
+cried [2, 2, 2, 2, 2]
+cried   2
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 0]
+piece [0, 0, 2, 2, 1]
+check [2, 2, 2, 2, 2]
+check   4
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 0, 0]
+brook [0, 1, 2, 2, 0]
+floor [2, 2, 2, 2, 2]
+floor   4
+tears [0, 2, 0, 0, 0]
+bench [2, 2, 1, 0, 0]
+being [2, 2, 1, 1, 1]
+begin [2, 2, 2, 2, 2]
+begin   4
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 1, 2, 0]
+woman [2, 2, 2, 2, 2]
+woman   3
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 2]
+alike [2, 2, 0, 0, 2]
+alone [2, 2, 2, 2, 2]
+alone   4
+tears [0, 1, 2, 0, 0]
+blame [0, 2, 2, 0, 2]
+place [2, 2, 2, 0, 2]
+plane [2, 2, 2, 2, 2]
+plane   4
+tears [0, 1, 0, 0, 1]
+slice [2, 1, 0, 0, 1]
+spell [2, 2, 2, 2, 2]
+spell   3
+tears [1, 0, 1, 0, 0]
+habit [1, 2, 0, 0, 1]
+watch [2, 2, 2, 2, 2]
+watch   3
+tears [0, 0, 1, 2, 0]
+carry [2, 2, 2, 2, 2]
+carry   2
+tears [1, 1, 0, 1, 0]
+wrote [2, 2, 2, 2, 2]
+wrote   2
+tears [0, 1, 1, 1, 0]
+cared [2, 1, 1, 1, 0]
+clear [2, 2, 2, 2, 2]
+clear   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 0, 1]
+named [2, 2, 2, 2, 2]
+named   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [0, 2, 2, 0, 2]
+books [2, 2, 2, 2, 2]
+books   4
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 2, 0, 2]
+child [2, 2, 2, 2, 2]
+child   3
+tears [0, 0, 2, 0, 2]
+glass [2, 2, 2, 2, 2]
+glass   2
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 1, 2, 0]
+woman [0, 0, 2, 2, 2]
+human [2, 2, 2, 2, 2]
+human   4
+tears [2, 1, 1, 0, 2]
+takes [2, 2, 2, 2, 2]
+takes   2
+tears [1, 0, 1, 1, 0]
+party [2, 2, 2, 2, 2]
+party   2
+tears [0, 0, 0, 0, 0]
+blind [2, 1, 2, 0, 2]
+build [2, 2, 2, 2, 2]
+build   3
+tears [0, 2, 0, 0, 2]
+seeds [2, 2, 2, 0, 2]
+seems [2, 2, 2, 2, 2]
+seems   3
+tears [0, 0, 0, 0, 0]
+blind [2, 2, 0, 0, 2]
+blood [2, 2, 2, 2, 2]
+blood   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [2, 2, 2, 2, 2]
+sides   3
+tears [0, 2, 0, 0, 1]
+seven [2, 2, 2, 2, 2]
+seven   2
+tears [1, 0, 0, 0, 0]
+month [2, 2, 0, 2, 2]
+mouth [2, 2, 2, 2, 2]
+mouth   3
+tears [0, 1, 0, 0, 1]
+slice [2, 1, 0, 0, 2]
+solve [2, 2, 2, 2, 2]
+solve   3
+tears [1, 0, 0, 1, 0]
+forth [0, 2, 2, 2, 2]
+north [2, 2, 2, 2, 2]
+north   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 1, 2]
+value [2, 2, 2, 2, 2]
+value   3
+tears [1, 2, 2, 0, 0]
+death [2, 2, 2, 2, 2]
+death   2
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 1, 0, 2]
+maybe [2, 2, 2, 2, 2]
+maybe   3
+tears [0, 0, 1, 0, 0]
+canal [0, 2, 0, 1, 0]
+happy [2, 2, 2, 2, 2]
+happy   3
+tears [2, 2, 0, 0, 2]
+tents [2, 2, 0, 1, 2]
+tells [2, 2, 2, 2, 2]
+tells   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [1, 2, 0, 2, 2]
+gives [2, 2, 2, 2, 2]
+gives   4
+tears [0, 0, 0, 0, 2]
+lions [2, 0, 2, 0, 2]
+looks [2, 2, 2, 2, 2]
+looks   3
+tears [0, 1, 2, 0, 1]
+shape [2, 2, 2, 2, 2]
+shape   2
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 1, 2, 2]
+lines [2, 2, 0, 2, 2]
+lives [2, 2, 2, 2, 2]
+lives   4
+tears [1, 1, 0, 0, 2]
+steps [2, 2, 2, 2, 2]
+steps   2
+tears [0, 1, 1, 1, 2]
+areas [2, 2, 2, 2, 2]
+areas   2
+tears [0, 2, 0, 0, 1]
+seven [2, 2, 0, 1, 1]
+sense [2, 2, 2, 2, 2]
+sense   3
+tears [0, 1, 1, 0, 1]
+sauce [2, 1, 0, 0, 1]
+speak [2, 2, 2, 2, 2]
+speak   3
+tears [0, 1, 0, 1, 0]
+cried [1, 1, 0, 1, 0]
+force [2, 2, 2, 2, 2]
+force   3
+tears [0, 1, 1, 0, 0]
+cable [1, 1, 0, 0, 1]
+ocean [2, 2, 2, 2, 2]
+ocean   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 1]
+sheep [2, 0, 2, 2, 1]
+speed [2, 2, 2, 2, 2]
+speed   4
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 0, 2, 0]
+money [1, 2, 1, 2, 0]
+women [2, 2, 2, 2, 2]
+women   4
+tears [1, 2, 1, 0, 0]
+metal [2, 2, 2, 2, 2]
+metal   2
+tears [1, 0, 0, 0, 1]
+shift [2, 1, 0, 0, 1]
+south [2, 2, 2, 2, 2]
+south   3
+tears [0, 0, 2, 1, 2]
+grass [2, 2, 2, 2, 2]
+grass   2
+tears [0, 1, 2, 0, 1]
+shape [2, 0, 2, 0, 2]
+scale [2, 2, 2, 2, 2]
+scale   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 1, 0, 2]
+cells [2, 2, 2, 2, 2]
+cells   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [0, 2, 2, 2, 2]
+lower [2, 2, 2, 2, 2]
+lower   4
+tears [0, 1, 0, 0, 1]
+slice [2, 2, 0, 0, 1]
+sleep [2, 2, 2, 2, 2]
+sleep   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 2, 0]
+wrong [2, 2, 2, 2, 2]
+wrong   3
+tears [0, 1, 1, 0, 2]
+games [1, 2, 0, 2, 2]
+pages [2, 2, 2, 2, 2]
+pages   3
+tears [0, 0, 0, 0, 2]
+lions [0, 1, 0, 0, 2]
+ships [2, 2, 2, 2, 2]
+ships   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 2, 2]
+needs [2, 2, 2, 2, 2]
+needs   3
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 1, 0, 2]
+rocks [2, 2, 2, 2, 2]
+rocks   3
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 1, 2]
+eight [2, 2, 2, 2, 2]
+eight   3
+tears [0, 0, 1, 1, 0]
+mayor [2, 2, 0, 2, 2]
+major [2, 2, 2, 2, 2]
+major   3
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 0, 0, 0]
+level [2, 2, 2, 2, 2]
+level   3
+tears [2, 0, 1, 0, 0]
+total [2, 2, 2, 2, 2]
+total   2
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 0, 1]
+added [2, 1, 1, 1, 2]
+ahead [2, 2, 2, 2, 2]
+ahead   4
+tears [0, 2, 2, 1, 0]
+ready [2, 2, 2, 0, 0]
+reach [2, 2, 2, 2, 2]
+reach   3
+tears [1, 0, 2, 2, 2]
+stars [2, 2, 2, 2, 2]
+stars   2
+tears [1, 1, 0, 2, 1]
+store [2, 2, 2, 2, 2]
+store   2
+tears [1, 0, 0, 0, 1]
+shift [2, 1, 1, 0, 2]
+sight [2, 2, 2, 2, 2]
+sight   3
+tears [2, 2, 0, 1, 2]
+terms [2, 2, 2, 2, 2]
+terms   2
+tears [1, 0, 1, 0, 0]
+habit [1, 2, 0, 0, 1]
+watch [0, 2, 2, 2, 2]
+catch [2, 2, 2, 2, 2]
+catch   4
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 2, 0, 2]
+words [2, 2, 2, 0, 2]
+works [2, 2, 2, 2, 2]
+works   4
+tears [0, 0, 2, 2, 0]
+board [2, 2, 2, 2, 2]
+board   2
+tears [0, 1, 0, 1, 0]
+cried [2, 1, 0, 2, 0]
+cover [2, 2, 2, 2, 2]
+cover   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 1, 1, 2]
+bonds [0, 2, 2, 0, 2]
+songs [2, 2, 2, 2, 2]
+songs   4
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 1]
+equal [2, 2, 2, 2, 2]
+equal   3
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 1, 2, 1]
+stone [2, 2, 2, 2, 2]
+stone   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [0, 2, 1, 2, 2]
+waves [2, 2, 2, 2, 2]
+waves   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 1, 2]
+guess [2, 2, 2, 2, 2]
+guess   3
+tears [0, 1, 1, 0, 0]
+cable [1, 2, 0, 0, 2]
+dance [2, 2, 2, 2, 2]
+dance   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 2]
+spoke [2, 2, 2, 2, 2]
+spoke   3
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 1, 1, 0]
+break [2, 2, 2, 2, 2]
+break   3
+tears [0, 1, 1, 0, 1]
+sauce [1, 2, 2, 1, 2]
+cause [2, 2, 2, 2, 2]
+cause   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 1, 1]
+radio [2, 2, 2, 2, 2]
+radio   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 0, 2]
+weeks [2, 2, 2, 2, 2]
+weeks   3
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 2, 0, 2]
+hands [0, 2, 2, 2, 2]
+lands [2, 2, 2, 2, 2]
+lands   4
+tears [0, 0, 1, 0, 1]
+sandy [1, 2, 0, 0, 0]
+basic [2, 2, 2, 2, 2]
+basic   3
+tears [0, 1, 0, 0, 0]
+loved [2, 0, 0, 2, 2]
+liked [2, 2, 2, 2, 2]
+liked   3
+tears [2, 1, 2, 1, 0]
+trade [2, 2, 2, 2, 2]
+trade   2
+tears [0, 1, 0, 1, 1]
+horse [1, 0, 1, 2, 1]
+fresh [2, 2, 2, 2, 2]
+fresh   3
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 2, 2, 2]
+final [2, 2, 2, 2, 2]
+final   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 1]
+light [0, 2, 2, 2, 2]
+fight [2, 2, 2, 2, 2]
+fight   4
+tears [1, 2, 2, 0, 0]
+death [0, 2, 2, 1, 0]
+meant [2, 2, 2, 2, 2]
+meant   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 1, 1]
+pride [0, 2, 2, 1, 2]
+drive [2, 2, 2, 2, 2]
+drive   4
+tears [1, 1, 0, 0, 1]
+spent [2, 2, 2, 2, 2]
+spent   2
+tears [0, 0, 1, 0, 0]
+canal [1, 1, 0, 2, 2]
+local [2, 2, 2, 2, 2]
+local   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [0, 2, 1, 2, 2]
+waves [2, 2, 0, 2, 2]
+waxes [2, 2, 2, 2, 2]
+waxes   5
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 1, 2]
+knows [2, 2, 2, 2, 2]
+knows   3
+tears [2, 0, 2, 1, 0]
+train [2, 2, 2, 2, 2]
+train   2
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 1, 1, 2]
+bread [2, 2, 2, 2, 2]
+bread   3
+tears [0, 1, 0, 0, 2]
+miles [1, 0, 0, 2, 2]
+comes [0, 2, 2, 2, 2]
+homes [2, 2, 2, 2, 2]
+homes   4
+tears [2, 2, 0, 0, 0]
+teeth [2, 2, 2, 2, 2]
+teeth   2
+tears [1, 0, 2, 0, 1]
+slant [1, 0, 2, 0, 2]
+coast [2, 2, 2, 2, 2]
+coast   3
+tears [2, 0, 0, 0, 0]
+thing [2, 2, 2, 0, 0]
+thick [2, 2, 2, 2, 2]
+thick   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 1, 0]
+brown [2, 2, 2, 2, 2]
+brown   3
+tears [0, 1, 1, 0, 0]
+cable [2, 1, 0, 1, 1]
+clean [2, 2, 2, 2, 2]
+clean   3
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 2, 2]
+quiet [2, 2, 2, 2, 2]
+quiet   3
+tears [0, 0, 1, 1, 1]
+sugar [2, 2, 2, 2, 2]
+sugar   2
+tears [1, 0, 1, 0, 2]
+wants [0, 2, 0, 2, 2]
+facts [2, 2, 2, 2, 2]
+facts   3
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 2, 0, 1]
+steel [2, 2, 2, 2, 2]
+steel   3
+tears [1, 0, 0, 1, 0]
+forth [2, 2, 2, 2, 2]
+forth   2
+tears [0, 1, 0, 1, 2]
+rises [2, 0, 1, 2, 2]
+rules [2, 2, 2, 2, 2]
+rules   3
+tears [1, 1, 0, 0, 2]
+steps [1, 1, 1, 0, 2]
+notes [2, 2, 2, 2, 2]
+notes   3
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 0, 0, 2]
+gifts [0, 1, 0, 2, 2]
+units [2, 2, 2, 2, 2]
+units   4
+tears [0, 2, 2, 0, 0]
+peace [2, 2, 2, 2, 2]
+peace   2
+tears [1, 0, 0, 0, 0]
+month [2, 2, 2, 2, 2]
+month   2
+tears [0, 2, 0, 1, 2]
+verbs [2, 2, 2, 2, 2]
+verbs   2
+tears [0, 2, 0, 0, 2]
+seeds [2, 2, 2, 2, 2]
+seeds   2
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 1, 0, 2]
+cells [0, 2, 2, 1, 2]
+helps [2, 2, 2, 2, 2]
+helps   4
+tears [0, 0, 2, 2, 1]
+sharp [2, 2, 2, 2, 2]
+sharp   2
+tears [1, 0, 0, 0, 1]
+shift [1, 0, 1, 0, 2]
+visit [2, 2, 2, 2, 2]
+visit   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [2, 2, 2, 2, 2]
+woods   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 0]
+chief [2, 2, 2, 2, 2]
+chief   3
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 0, 0, 2]
+walls [2, 2, 2, 2, 2]
+walls   3
+tears [0, 0, 0, 1, 2]
+forms [0, 1, 1, 0, 2]
+crops [2, 2, 2, 0, 2]
+cross [2, 2, 2, 2, 2]
+cross   4
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [0, 2, 2, 0, 2]
+wings [2, 2, 2, 2, 2]
+wings   4
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 1, 0]
+brown [0, 2, 2, 2, 2]
+grown [2, 2, 2, 2, 2]
+grown   4
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [2, 2, 2, 2, 2]
+cases   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [0, 2, 2, 2, 2]
+foods [2, 2, 2, 2, 2]
+foods   4
+tears [0, 0, 0, 1, 2]
+forms [0, 1, 1, 0, 2]
+crops [2, 2, 2, 2, 2]
+crops   3
+tears [1, 0, 0, 1, 0]
+forth [2, 0, 1, 1, 0]
+fruit [2, 2, 2, 2, 2]
+fruit   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 2, 0, 1]
+still [2, 2, 2, 0, 0]
+stick [2, 2, 2, 2, 2]
+stick   4
+tears [1, 0, 1, 0, 2]
+wants [2, 2, 2, 2, 2]
+wants   2
+tears [1, 1, 2, 0, 1]
+state [2, 2, 2, 1, 2]
+stage [2, 2, 2, 2, 2]
+stage   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 1]
+sheep [2, 2, 2, 2, 2]
+sheep   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 1, 2, 2]
+nouns [2, 2, 2, 2, 2]
+nouns   3
+tears [0, 0, 2, 0, 0]
+claim [0, 2, 2, 2, 0]
+plain [2, 2, 2, 2, 2]
+plain   3
+tears [0, 0, 0, 1, 0]
+round [1, 0, 0, 2, 1]
+drink [2, 2, 2, 2, 2]
+drink   3
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [2, 2, 2, 2, 2]
+bones   3
+tears [1, 0, 2, 2, 0]
+apart [2, 2, 2, 2, 2]
+apart   2
+tears [2, 0, 0, 1, 2]
+turns [2, 2, 2, 2, 2]
+turns   2
+tears [0, 1, 0, 0, 2]
+miles [2, 0, 0, 2, 2]
+moves [2, 2, 2, 2, 2]
+moves   3
+tears [2, 0, 0, 0, 0]
+thing [2, 1, 0, 0, 0]
+touch [2, 2, 2, 2, 2]
+touch   3
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 2, 2]
+angle [2, 2, 2, 2, 2]
+angle   3
+tears [0, 1, 1, 0, 1]
+sauce [1, 2, 0, 0, 1]
+based [2, 2, 2, 2, 2]
+based   3
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 1, 1, 0]
+range [2, 2, 2, 2, 2]
+range   3
+tears [0, 0, 1, 1, 2]
+marks [2, 2, 2, 2, 2]
+marks   2
+tears [2, 1, 0, 1, 0]
+threw [2, 0, 2, 2, 0]
+tired [2, 2, 2, 2, 2]
+tired   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 1]
+under [0, 0, 2, 2, 2]
+older [2, 2, 2, 2, 2]
+older   4
+tears [0, 0, 1, 1, 2]
+marks [1, 2, 2, 0, 2]
+farms [2, 2, 2, 2, 2]
+farms   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 1]
+sheep [2, 0, 2, 1, 1]
+spend [2, 2, 2, 2, 2]
+spend   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [0, 1, 0, 2, 2]
+shoes [2, 2, 2, 2, 2]
+shoes   4
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [0, 2, 2, 2, 2]
+foods [0, 2, 2, 2, 2]
+goods [2, 2, 2, 2, 2]
+goods   5
+tears [0, 0, 2, 1, 0]
+grand [0, 1, 2, 0, 0]
+chair [2, 2, 2, 2, 2]
+chair   3
+tears [2, 1, 0, 0, 0]
+twice [2, 2, 2, 2, 2]
+twice   2
+tears [1, 2, 0, 0, 2]
+cents [2, 2, 2, 2, 2]
+cents   2
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 1, 1]
+white [0, 0, 0, 2, 1]
+empty [2, 2, 2, 2, 2]
+empty   4
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 2]
+alike [2, 2, 2, 2, 2]
+alike   3
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 1, 0, 1]
+style [2, 2, 2, 2, 2]
+style   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 1, 0]
+broke [2, 2, 2, 2, 2]
+broke   3
+tears [0, 0, 1, 2, 2]
+pairs [2, 2, 2, 2, 2]
+pairs   2
+tears [1, 0, 0, 0, 0]
+month [0, 2, 1, 1, 0]
+point [0, 2, 0, 2, 2]
+count [2, 2, 2, 2, 2]
+count   4
+tears [0, 1, 0, 0, 0]
+loved [0, 1, 0, 1, 0]
+enjoy [2, 2, 2, 2, 2]
+enjoy   3
+tears [0, 1, 0, 2, 1]
+score [2, 2, 2, 2, 2]
+score   2
+tears [0, 1, 0, 2, 1]
+score [2, 0, 2, 2, 2]
+shore [2, 2, 2, 2, 2]
+shore   3
+tears [1, 0, 0, 1, 2]
+sorts [1, 2, 1, 2, 2]
+roots [2, 2, 2, 2, 2]
+roots   3
+tears [1, 0, 1, 0, 0]
+habit [0, 2, 0, 1, 2]
+paint [2, 2, 2, 2, 2]
+paint   3
+tears [0, 2, 2, 0, 2]
+beams [0, 2, 2, 0, 2]
+heads [2, 2, 2, 2, 2]
+heads   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 2, 0, 0, 0]
+shook [2, 2, 2, 2, 2]
+shook   3
+tears [0, 2, 0, 1, 1]
+serve [2, 2, 2, 2, 2]
+serve   2
+tears [0, 0, 1, 2, 0]
+carry [0, 1, 1, 2, 2]
+angry [2, 2, 2, 2, 2]
+angry   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 0, 2]
+crowd [2, 2, 2, 2, 2]
+crowd   3
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 2, 0]
+wheel [2, 2, 2, 2, 2]
+wheel   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 2, 0, 0]
+which [0, 0, 2, 2, 0]
+quick [2, 2, 2, 2, 2]
+quick   4
+tears [0, 1, 0, 1, 2]
+rises [1, 0, 1, 1, 2]
+dress [2, 2, 2, 2, 2]
+dress   3
+tears [0, 1, 2, 2, 1]
+share [2, 2, 2, 2, 2]
+share   2
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 2]
+alike [2, 2, 2, 0, 2]
+alive [2, 2, 2, 2, 2]
+alive   4
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 2, 0, 2]
+noise [2, 2, 2, 2, 2]
+noise   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 1, 0, 0]
+solid [2, 2, 2, 2, 2]
+solid   3
+tears [1, 0, 0, 0, 0]
+month [0, 1, 0, 2, 2]
+cloth [2, 2, 2, 2, 2]
+cloth   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 2, 2]
+signs [2, 2, 2, 2, 2]
+signs   3
+tears [0, 0, 0, 0, 2]
+lions [1, 2, 0, 0, 2]
+hills [2, 2, 2, 2, 2]
+hills   3
+tears [2, 1, 0, 0, 2]
+tunes [2, 0, 0, 2, 2]
+times [2, 0, 0, 2, 2]
+types [2, 2, 2, 2, 2]
+types   4
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 1, 1]
+drawn [2, 2, 2, 2, 2]
+drawn   3
+tears [1, 0, 0, 1, 0]
+forth [0, 2, 2, 2, 2]
+north [0, 2, 2, 2, 2]
+worth [2, 2, 2, 2, 2]
+worth   4
+tears [2, 0, 0, 1, 0]
+truck [2, 2, 2, 2, 2]
+truck   2
+tears [0, 0, 2, 0, 0]
+claim [0, 0, 2, 1, 0]
+piano [2, 2, 2, 2, 2]
+piano   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [1, 0, 0, 2, 2]
+upper [2, 2, 2, 2, 2]
+upper   4
+tears [0, 1, 0, 0, 0]
+loved [2, 2, 2, 2, 2]
+loved   2
+tears [0, 0, 1, 0, 1]
+sandy [1, 1, 0, 0, 0]
+usual [2, 2, 2, 2, 2]
+usual   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [1, 2, 1, 2, 2]
+faces [2, 2, 2, 2, 2]
+faces   4
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 1, 1]
+drove [2, 2, 2, 2, 2]
+drove   3
+tears [0, 0, 1, 0, 0]
+canal [2, 2, 1, 1, 0]
+cabin [2, 2, 2, 2, 2]
+cabin   3
+tears [1, 0, 2, 0, 2]
+boats [2, 2, 2, 2, 2]
+boats   2
+tears [2, 0, 0, 0, 2]
+towns [2, 2, 2, 2, 2]
+towns   2
+tears [0, 0, 0, 1, 0]
+round [1, 1, 1, 0, 2]
+proud [2, 2, 2, 2, 2]
+proud   3
+tears [1, 0, 0, 2, 0]
+court [2, 2, 2, 2, 2]
+court   2
+tears [0, 1, 0, 0, 0]
+loved [1, 2, 0, 2, 1]
+model [2, 2, 2, 2, 2]
+model   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 1, 0]
+prime [2, 2, 2, 2, 2]
+prime   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 2, 0]
+fifty [2, 2, 2, 2, 2]
+fifty   3
+tears [0, 0, 2, 0, 2]
+glass [0, 2, 2, 1, 2]
+plans [2, 2, 2, 2, 2]
+plans   3
+tears [0, 0, 1, 1, 2]
+marks [0, 2, 2, 0, 2]
+yards [2, 2, 2, 2, 2]
+yards   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 1, 0]
+broke [0, 2, 2, 0, 2]
+prove [2, 2, 2, 2, 2]
+prove   4
+tears [2, 0, 0, 0, 2]
+towns [2, 2, 0, 0, 2]
+tools [2, 2, 2, 2, 2]
+tools   3
+tears [0, 1, 0, 1, 0]
+cried [1, 2, 2, 1, 0]
+price [2, 2, 2, 2, 2]
+price   3
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 2, 0, 2]
+sheet [2, 2, 2, 2, 2]
+sheet   3
+tears [0, 1, 0, 0, 1]
+slice [2, 1, 0, 0, 1]
+spell [2, 0, 2, 2, 2]
+smell [2, 2, 2, 2, 2]
+smell   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [2, 2, 0, 2, 2]
+boxes [2, 2, 2, 2, 2]
+boxes   4
+tears [0, 1, 1, 1, 1]
+raise [2, 2, 2, 2, 2]
+raise   2
+tears [1, 0, 1, 0, 0]
+habit [1, 2, 0, 0, 1]
+watch [0, 2, 2, 2, 2]
+catch [1, 2, 2, 2, 2]
+match [2, 2, 2, 2, 2]
+match   5
+tears [2, 0, 0, 1, 0]
+truck [2, 2, 2, 0, 0]
+truth [2, 2, 2, 2, 2]
+truth   3
+tears [0, 0, 2, 1, 2]
+grass [0, 1, 2, 1, 2]
+roads [2, 2, 2, 2, 2]
+roads   3
+tears [2, 1, 0, 1, 0]
+threw [2, 2, 2, 2, 2]
+threw   2
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 0]
+piece [0, 0, 2, 0, 1]
+enemy [2, 2, 2, 2, 2]
+enemy   4
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 0, 1, 0]
+lunch [2, 2, 2, 2, 2]
+lunch   3
+tears [1, 0, 2, 2, 0]
+apart [1, 0, 2, 2, 2]
+chart [2, 2, 2, 2, 2]
+chart   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 1, 2]
+scene [2, 2, 2, 2, 2]
+scene   3
+tears [0, 0, 2, 1, 0]
+grand [2, 2, 2, 0, 0]
+graph [2, 2, 2, 2, 2]
+graph   3
+tears [1, 0, 0, 0, 0]
+month [0, 2, 0, 1, 0]
+doubt [2, 2, 2, 2, 2]
+doubt   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 1]
+guide [2, 2, 2, 2, 2]
+guide   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [0, 2, 2, 2, 2]
+winds [2, 2, 2, 2, 2]
+winds   4
+tears [0, 0, 0, 0, 0]
+blind [2, 2, 0, 0, 0]
+block [2, 2, 2, 2, 2]
+block   3
+tears [0, 0, 2, 1, 0]
+grand [2, 2, 2, 1, 0]
+grain [2, 2, 2, 2, 2]
+grain   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 2]
+spoke [2, 0, 2, 2, 2]
+smoke [2, 2, 2, 2, 2]
+smoke   4
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 2]
+mixed [2, 2, 2, 2, 2]
+mixed   3
+tears [0, 1, 1, 0, 2]
+games [2, 2, 2, 2, 2]
+games   2
+tears [0, 0, 1, 0, 0]
+canal [0, 2, 1, 1, 0]
+wagon [2, 2, 2, 2, 2]
+wagon   3
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 2, 0, 2]
+sheet [2, 0, 2, 2, 2]
+sweet [2, 2, 2, 2, 2]
+sweet   4
+tears [2, 0, 0, 0, 0]
+thing [2, 0, 1, 0, 0]
+topic [2, 2, 2, 2, 2]
+topic   3
+tears [1, 1, 1, 2, 0]
+extra [2, 2, 2, 2, 2]
+extra   2
+tears [1, 1, 2, 0, 0]
+plate [2, 2, 2, 2, 2]
+plate   2
+tears [2, 1, 0, 0, 0]
+twice [2, 0, 1, 0, 2]
+title [2, 2, 2, 2, 2]
+title   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 0]
+piece [0, 1, 1, 0, 2]
+knife [2, 2, 2, 2, 2]
+knife   4
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 2, 2, 0]
+fence [2, 2, 2, 2, 2]
+fence   3
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 0, 0, 2]
+walls [0, 2, 2, 2, 2]
+falls [2, 2, 2, 2, 2]
+falls   4
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 0, 0, 2]
+cloud [2, 2, 2, 2, 2]
+cloud   3
+tears [1, 1, 1, 0, 0]
+eaten [1, 1, 1, 1, 0]
+wheat [2, 2, 2, 2, 2]
+wheat   3
+tears [0, 0, 2, 0, 2]
+glass [0, 2, 2, 1, 2]
+plans [2, 2, 2, 0, 2]
+plays [2, 2, 2, 2, 2]
+plays   4
+tears [1, 1, 0, 1, 0]
+wrote [0, 1, 0, 1, 1]
+enter [2, 2, 2, 2, 2]
+enter   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 1, 1]
+broad [2, 2, 2, 2, 2]
+broad   3
+tears [1, 1, 1, 0, 1]
+steam [2, 2, 2, 2, 2]
+steam   2
+tears [1, 0, 1, 0, 2]
+wants [0, 1, 0, 1, 2]
+atoms [2, 2, 2, 2, 2]
+atoms   3
+tears [0, 1, 0, 1, 2]
+rises [1, 0, 1, 1, 2]
+dress [0, 2, 2, 2, 2]
+press [2, 2, 2, 2, 2]
+press   4
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 2, 2, 0]
+lying [2, 2, 2, 2, 2]
+lying   3
+tears [0, 0, 1, 0, 2]
+banks [2, 2, 0, 0, 2]
+basis [2, 2, 2, 2, 2]
+basis   3
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 0, 0, 0]
+clock [2, 2, 2, 2, 2]
+clock   3
+tears [2, 1, 1, 0, 1]
+taste [2, 2, 2, 2, 2]
+taste   2
+tears [0, 0, 0, 1, 2]
+forms [0, 1, 1, 0, 2]
+crops [0, 2, 2, 0, 2]
+grows [2, 2, 2, 2, 2]
+grows   4
+tears [2, 0, 2, 0, 0]
+thank [2, 2, 2, 2, 2]
+thank   2
+tears [1, 0, 0, 2, 1]
+short [2, 0, 2, 2, 1]
+story [2, 2, 2, 2, 0]
+storm [2, 2, 2, 2, 2]
+storm   4
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 2, 2, 0]
+agree [2, 2, 2, 2, 2]
+agree   3
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 1, 0]
+brain [2, 2, 2, 2, 2]
+brain   3
+tears [2, 0, 2, 1, 0]
+train [2, 2, 2, 0, 0]
+track [2, 2, 2, 2, 2]
+track   3
+tears [0, 1, 0, 0, 1]
+slice [2, 1, 2, 0, 2]
+smile [2, 2, 2, 2, 2]
+smile   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 2, 0]
+young [1, 0, 1, 2, 0]
+funny [2, 2, 2, 2, 2]
+funny   4
+tears [0, 2, 2, 0, 0]
+peace [0, 2, 2, 2, 1]
+beach [2, 2, 2, 2, 2]
+beach   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 0, 0, 1]
+study [2, 2, 0, 0, 0]
+stock [2, 2, 2, 2, 2]
+stock   4
+tears [0, 0, 0, 2, 0]
+hurry [2, 2, 2, 2, 2]
+hurry   2
+tears [0, 1, 1, 0, 1]
+sauce [2, 2, 0, 0, 1]
+saved [2, 2, 2, 2, 2]
+saved   3
+tears [0, 0, 0, 2, 1]
+sorry [2, 2, 2, 2, 2]
+sorry   2
+tears [1, 0, 2, 0, 0]
+plant [0, 0, 2, 2, 2]
+giant [2, 2, 2, 2, 2]
+giant   3
+tears [2, 0, 2, 1, 0]
+train [2, 2, 2, 2, 0]
+trail [2, 2, 2, 2, 2]
+trail   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [0, 1, 0, 2, 2]
+offer [2, 2, 2, 2, 2]
+offer   4
+tears [1, 0, 0, 0, 0]
+month [0, 1, 0, 1, 1]
+ought [2, 2, 2, 2, 2]
+ought   3
+tears [0, 0, 0, 1, 0]
+round [2, 2, 2, 0, 0]
+rough [2, 2, 2, 2, 2]
+rough   3
+tears [0, 0, 1, 0, 0]
+canal [0, 2, 0, 1, 1]
+daily [2, 2, 2, 2, 2]
+daily   3
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 0, 1, 0]
+avoid [2, 2, 2, 2, 2]
+avoid   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 0, 2]
+weeks [0, 2, 2, 1, 2]
+keeps [2, 2, 2, 2, 2]
+keeps   4
+tears [2, 0, 0, 1, 0]
+truck [2, 1, 0, 0, 0]
+throw [2, 2, 2, 2, 2]
+throw   3
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 0, 1, 1]
+allow [2, 2, 2, 2, 2]
+allow   3
+tears [0, 1, 1, 1, 0]
+cared [2, 1, 1, 1, 0]
+clear [2, 0, 2, 2, 1]
+cream [2, 2, 2, 2, 2]
+cream   4
+tears [0, 0, 1, 0, 0]
+canal [0, 2, 0, 1, 1]
+daily [0, 2, 0, 1, 0]
+laugh [2, 2, 2, 2, 2]
+laugh   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [0, 0, 0, 2, 2]
+edges [2, 2, 2, 2, 2]
+edges   4
+tears [2, 2, 2, 0, 0]
+teach [2, 2, 2, 2, 2]
+teach   2
+tears [0, 1, 2, 1, 0]
+grave [0, 2, 2, 0, 2]
+frame [2, 2, 2, 2, 2]
+frame   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 1, 0, 2]
+cells [0, 2, 2, 2, 2]
+bells [2, 2, 2, 2, 2]
+bells   4
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 1, 1, 1]
+dream [2, 2, 2, 2, 2]
+dream   3
+tears [0, 0, 1, 0, 0]
+canal [1, 2, 0, 1, 0]
+magic [2, 2, 2, 2, 2]
+magic   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 1, 0, 0]
+group [0, 1, 1, 2, 0]
+occur [2, 2, 2, 2, 2]
+occur   4
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 2]
+mixed [0, 0, 0, 2, 2]
+ended [2, 2, 2, 2, 2]
+ended   4
+tears [0, 0, 0, 2, 0]
+hurry [1, 0, 1, 2, 0]
+chord [2, 2, 2, 2, 2]
+chord   3
+tears [0, 1, 1, 0, 1]
+sauce [1, 2, 0, 0, 2]
+false [2, 2, 2, 2, 2]
+false   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 2, 0, 0]
+skill [2, 2, 2, 2, 2]
+skill   3
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 2, 2, 2]
+holes [2, 2, 2, 2, 2]
+holes   3
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 0, 2, 1]
+dozen [2, 2, 2, 2, 2]
+dozen   3
+tears [0, 1, 2, 1, 0]
+grave [0, 2, 2, 2, 2]
+brave [2, 2, 2, 2, 2]
+brave   3
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 2, 2]
+angle [2, 0, 0, 2, 2]
+apple [2, 2, 2, 2, 2]
+apple   4
+tears [0, 0, 0, 0, 0]
+blind [1, 2, 2, 0, 0]
+climb [2, 2, 2, 2, 2]
+climb   3
+tears [1, 1, 0, 1, 0]
+wrote [0, 1, 1, 1, 1]
+other [2, 1, 0, 2, 2]
+outer [2, 2, 2, 2, 2]
+outer   4
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 2]
+pitch [2, 2, 2, 2, 2]
+pitch   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [0, 0, 0, 2, 2]
+ruler [2, 2, 2, 2, 2]
+ruler   4
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 1, 0, 2]
+holds [2, 2, 2, 2, 2]
+holds   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 2]
+mixed [0, 2, 2, 2, 2]
+fixed [2, 2, 2, 2, 2]
+fixed   4
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 1, 0, 2]
+costs [2, 2, 2, 2, 2]
+costs   3
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 0, 0, 2]
+walls [0, 2, 2, 2, 2]
+falls [0, 2, 2, 2, 2]
+calls [2, 2, 2, 2, 2]
+calls   5
+tears [0, 0, 2, 0, 0]
+claim [0, 2, 2, 0, 0]
+blank [2, 2, 2, 2, 2]
+blank   3
+tears [1, 0, 2, 0, 1]
+slant [2, 0, 2, 0, 1]
+staff [2, 2, 2, 2, 2]
+staff   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 2, 2]
+vapor [0, 2, 0, 2, 2]
+labor [2, 2, 2, 2, 2]
+labor   4
+tears [1, 1, 1, 0, 0]
+eaten [2, 2, 2, 2, 2]
+eaten   2
+tears [1, 0, 0, 0, 0]
+month [0, 2, 0, 2, 2]
+youth [2, 2, 2, 2, 2]
+youth   3
+tears [2, 1, 0, 0, 2]
+tunes [2, 0, 2, 2, 2]
+tones [2, 2, 2, 2, 2]
+tones   3
+tears [0, 0, 0, 1, 0]
+round [1, 2, 0, 1, 0]
+honor [2, 2, 2, 2, 2]
+honor   3
+tears [0, 1, 0, 0, 0]
+loved [1, 1, 0, 1, 0]
+whole [0, 0, 2, 1, 2]
+globe [2, 2, 2, 2, 2]
+globe   4
+tears [0, 1, 1, 0, 2]
+games [2, 2, 0, 2, 2]
+gases [2, 2, 2, 2, 2]
+gases   3
+tears [0, 0, 0, 2, 2]
+hours [0, 2, 0, 2, 2]
+doors [2, 2, 2, 2, 2]
+doors   3
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 2, 2, 2]
+holes [0, 2, 2, 2, 2]
+poles [2, 2, 2, 2, 2]
+poles   4
+tears [0, 1, 0, 0, 1]
+slice [1, 1, 0, 0, 2]
+loose [2, 2, 2, 2, 2]
+loose   3
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 0, 1, 1]
+allow [2, 1, 1, 0, 0]
+apply [2, 2, 2, 2, 2]
+apply   4
+tears [2, 2, 2, 2, 2]
+tears   1
+tears [1, 1, 2, 0, 0]
+plate [0, 0, 2, 1, 1]
+exact [2, 2, 2, 2, 2]
+exact   3
+tears [0, 0, 0, 1, 1]
+brush [2, 2, 2, 2, 2]
+brush   2
+tears [1, 1, 0, 0, 1]
+spent [1, 0, 2, 0, 2]
+chest [2, 2, 2, 2, 2]
+chest   3
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 1, 2, 0]
+paper [0, 2, 0, 2, 2]
+layer [2, 2, 2, 2, 2]
+layer   4
+tears [0, 1, 2, 0, 0]
+blame [0, 1, 2, 0, 2]
+whale [2, 2, 2, 2, 2]
+whale   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 1, 0]
+brown [0, 1, 1, 0, 1]
+minor [2, 2, 2, 2, 2]
+minor   4
+tears [1, 0, 1, 0, 0]
+habit [1, 2, 0, 1, 1]
+faith [2, 2, 2, 2, 2]
+faith   3
+tears [2, 2, 0, 0, 2]
+tents [2, 2, 0, 2, 2]
+tests [2, 2, 2, 2, 2]
+tests   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 1]
+guide [1, 2, 0, 1, 2]
+judge [2, 2, 2, 2, 2]
+judge   4
+tears [1, 1, 0, 0, 2]
+steps [1, 2, 2, 0, 2]
+items [2, 2, 2, 2, 2]
+items   3
+tears [0, 0, 0, 2, 0]
+hurry [0, 0, 2, 2, 2]
+worry [2, 2, 2, 2, 2]
+worry   3
+tears [1, 1, 1, 0, 1]
+steam [1, 1, 1, 1, 0]
+waste [2, 2, 2, 2, 2]
+waste   3
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 0, 2, 2]
+hoped [2, 2, 2, 2, 2]
+hoped   3
+tears [1, 0, 0, 1, 1]
+first [0, 1, 2, 1, 1]
+strip [2, 2, 2, 2, 2]
+strip   3
+tears [0, 2, 0, 0, 0]
+bench [2, 2, 1, 0, 0]
+being [2, 2, 0, 1, 1]
+begun [2, 2, 2, 2, 2]
+begun   4
+tears [0, 1, 1, 0, 1]
+sauce [1, 1, 0, 0, 2]
+aside [2, 2, 2, 2, 2]
+aside   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [0, 2, 1, 2, 2]
+waves [0, 2, 0, 2, 2]
+lakes [2, 2, 2, 2, 2]
+lakes   5
+tears [0, 0, 0, 0, 0]
+blind [2, 0, 0, 2, 2]
+bound [2, 2, 2, 2, 2]
+bound   3
+tears [1, 2, 0, 0, 0]
+depth [2, 2, 2, 2, 2]
+depth   2
+tears [0, 0, 1, 0, 0]
+canal [2, 2, 2, 1, 0]
+candy [2, 2, 2, 2, 2]
+candy   3
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 2, 1, 2]
+event [2, 2, 2, 2, 2]
+event   3
+tears [0, 1, 0, 1, 1]
+horse [0, 2, 2, 2, 2]
+worse [2, 2, 2, 2, 2]
+worse   3
+tears [0, 1, 2, 2, 0]
+aware [2, 2, 2, 2, 2]
+aware   2
+tears [0, 1, 0, 0, 1]
+slice [2, 1, 0, 0, 1]
+spell [2, 0, 2, 2, 2]
+smell [2, 0, 2, 2, 2]
+shell [2, 2, 2, 2, 2]
+shell   5
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 1, 2, 2]
+rooms [2, 2, 2, 2, 2]
+rooms   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 0, 1]
+ranch [2, 2, 2, 2, 2]
+ranch   3
+tears [0, 1, 2, 0, 0]
+blame [0, 0, 2, 1, 2]
+image [2, 2, 2, 2, 2]
+image   3
+tears [0, 1, 2, 0, 1]
+shape [2, 0, 2, 0, 2]
+scale [2, 0, 2, 0, 2]
+snake [2, 2, 2, 2, 2]
+snake   4
+tears [0, 0, 1, 0, 0]
+canal [0, 1, 0, 1, 1]
+allow [2, 2, 1, 1, 0]
+aloud [2, 2, 2, 2, 2]
+aloud   4
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 2, 2]
+dried [2, 2, 2, 2, 2]
+dried   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 1, 2, 2]
+lines [2, 2, 0, 2, 2]
+lives [2, 2, 0, 2, 2]
+likes [2, 2, 2, 2, 2]
+likes   5
+tears [1, 0, 0, 1, 0]
+forth [0, 2, 1, 1, 0]
+motor [2, 2, 2, 2, 2]
+motor   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 2, 2]
+found [0, 2, 2, 2, 2]
+pound [2, 2, 2, 2, 2]
+pound   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [0, 0, 1, 2, 2]
+knees [2, 2, 2, 2, 2]
+knees   4
+tears [0, 2, 0, 1, 0]
+never [0, 2, 0, 2, 2]
+refer [2, 2, 2, 2, 2]
+refer   3
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 0, 0, 0]
+fully [2, 2, 2, 2, 2]
+fully   3
+tears [0, 0, 2, 0, 0]
+claim [2, 0, 2, 2, 0]
+chain [2, 2, 2, 2, 2]
+chain   3
+tears [1, 0, 0, 2, 1]
+short [2, 2, 0, 2, 2]
+shirt [2, 2, 2, 2, 2]
+shirt   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 1, 0, 0]
+group [0, 1, 2, 2, 0]
+flour [2, 2, 2, 2, 2]
+flour   4
+tears [0, 0, 0, 1, 2]
+forms [0, 1, 1, 0, 2]
+crops [0, 2, 2, 2, 2]
+drops [2, 2, 2, 2, 2]
+drops   4
+tears [1, 1, 0, 0, 1]
+spent [2, 2, 1, 0, 1]
+spite [2, 2, 2, 2, 2]
+spite   3
+tears [1, 0, 0, 1, 0]
+forth [0, 1, 1, 1, 0]
+orbit [2, 2, 2, 2, 2]
+orbit   3
+tears [0, 0, 1, 0, 2]
+banks [2, 2, 2, 2, 2]
+banks   2
+tears [1, 0, 0, 0, 1]
+shift [2, 2, 0, 0, 2]
+shoot [2, 2, 2, 2, 2]
+shoot   3
+tears [0, 1, 0, 1, 0]
+cried [2, 1, 0, 1, 0]
+curve [2, 2, 2, 2, 2]
+curve   3
+tears [2, 1, 0, 1, 0]
+threw [2, 0, 1, 1, 0]
+tribe [2, 2, 2, 2, 2]
+tribe   3
+tears [2, 0, 0, 0, 0]
+thing [2, 1, 1, 0, 1]
+tight [2, 2, 2, 2, 2]
+tight   3
+tears [0, 0, 0, 0, 0]
+blind [2, 2, 2, 2, 2]
+blind   2
+tears [1, 1, 0, 0, 1]
+spent [2, 1, 2, 0, 2]
+slept [2, 2, 2, 2, 2]
+slept   3
+tears [0, 1, 2, 0, 1]
+shape [2, 2, 2, 0, 2]
+shade [2, 2, 2, 2, 2]
+shade   3
+tears [0, 0, 2, 0, 0]
+claim [2, 2, 2, 2, 2]
+claim   2
+tears [0, 1, 0, 0, 2]
+miles [0, 1, 1, 2, 2]
+flies [2, 2, 2, 2, 2]
+flies   3
+tears [2, 1, 0, 0, 0]
+twice [2, 0, 0, 0, 2]
+theme [2, 2, 2, 2, 2]
+theme   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 0]
+chief [0, 0, 0, 2, 0]
+queen [2, 2, 2, 2, 2]
+queen   4
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 2, 2]
+fifth [2, 2, 2, 2, 2]
+fifth   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 2, 1, 0]
+union [2, 2, 2, 2, 2]
+union   3
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 2, 2, 1]
+hence [2, 2, 2, 2, 2]
+hence   3
+tears [1, 0, 1, 1, 1]
+straw [2, 2, 2, 2, 2]
+straw   2
+tears [1, 1, 0, 2, 0]
+entry [2, 2, 2, 2, 2]
+entry   2
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 1, 0, 2]
+issue [2, 2, 2, 2, 2]
+issue   3
+tears [1, 0, 0, 1, 0]
+forth [0, 0, 2, 2, 2]
+birth [2, 2, 2, 2, 2]
+birth   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 0, 2]
+weeks [0, 2, 2, 0, 2]
+feels [2, 2, 2, 2, 2]
+feels   4
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 1, 2, 0]
+anger [2, 2, 2, 2, 2]
+anger   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 2, 0]
+brief [2, 2, 2, 2, 2]
+brief   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 1, 0]
+rhyme [2, 2, 2, 2, 2]
+rhyme   3
+tears [0, 0, 0, 2, 0]
+hurry [0, 0, 1, 2, 2]
+glory [2, 2, 2, 2, 2]
+glory   3
+tears [0, 0, 2, 2, 0]
+board [0, 0, 2, 2, 2]
+guard [2, 2, 2, 2, 2]
+guard   3
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 2, 0, 2]
+flows [2, 2, 2, 2, 2]
+flows   3
+tears [0, 1, 0, 0, 1]
+slice [1, 2, 0, 0, 1]
+flesh [2, 2, 2, 2, 2]
+flesh   3
+tears [0, 1, 0, 0, 0]
+loved [0, 1, 0, 2, 2]
+owned [2, 2, 2, 2, 2]
+owned   3
+tears [2, 0, 0, 1, 0]
+truck [2, 2, 0, 2, 2]
+trick [2, 2, 2, 2, 2]
+trick   3
+tears [0, 0, 0, 2, 2]
+hours [0, 2, 2, 2, 2]
+yours [2, 2, 2, 2, 2]
+yours   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [2, 2, 0, 2, 2]
+sizes [2, 2, 2, 2, 2]
+sizes   4
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 2, 1]
+noted [2, 2, 2, 2, 2]
+noted   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 2, 2]
+fifth [0, 2, 0, 2, 2]
+width [2, 2, 2, 2, 2]
+width   4
+tears [1, 0, 0, 1, 1]
+first [0, 0, 2, 2, 2]
+burst [2, 2, 2, 2, 2]
+burst   3
+tears [1, 1, 0, 1, 0]
+wrote [0, 1, 1, 2, 2]
+route [2, 2, 2, 2, 2]
+route   3
+tears [0, 0, 0, 0, 2]
+lions [2, 0, 0, 1, 2]
+lungs [2, 2, 2, 2, 2]
+lungs   3
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 0]
+uncle [2, 2, 2, 2, 2]
+uncle   3
+tears [0, 2, 2, 2, 2]
+years [0, 2, 2, 2, 2]
+bears [2, 2, 2, 2, 2]
+bears   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 2, 1, 1]
+royal [2, 2, 2, 2, 2]
+royal   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [2, 2, 2, 0, 2]
+kings [2, 2, 2, 2, 2]
+kings   4
+tears [1, 0, 0, 1, 0]
+forth [2, 2, 2, 2, 0]
+forty [2, 2, 2, 2, 2]
+forty   3
+tears [2, 0, 1, 1, 0]
+trial [2, 2, 2, 2, 2]
+trial   2
+tears [0, 0, 1, 1, 2]
+marks [0, 2, 2, 0, 2]
+yards [0, 2, 2, 2, 2]
+cards [2, 2, 2, 2, 2]
+cards   4
+tears [0, 0, 2, 1, 2]
+grass [0, 2, 2, 2, 2]
+brass [2, 2, 2, 2, 2]
+brass   3
+tears [0, 1, 1, 2, 0]
+opera [2, 2, 2, 2, 2]
+opera   2
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 0, 1, 2]
+chose [2, 2, 2, 2, 2]
+chose   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [0, 1, 1, 2, 2]
+owner [2, 2, 2, 2, 2]
+owner   4
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 2, 2]
+vapor [2, 2, 2, 2, 2]
+vapor   3
+tears [1, 2, 2, 0, 2]
+beats [2, 2, 2, 2, 2]
+beats   2
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 0, 0, 2]
+house [0, 2, 2, 2, 2]
+mouse [2, 2, 2, 2, 2]
+mouse   4
+tears [2, 0, 0, 0, 0]
+thing [2, 1, 0, 0, 1]
+tough [2, 2, 2, 2, 2]
+tough   3
+tears [0, 1, 0, 1, 2]
+rises [1, 2, 1, 2, 2]
+wires [2, 2, 2, 2, 2]
+wires   3
+tears [1, 2, 0, 1, 0]
+meter [2, 2, 2, 2, 2]
+meter   2
+tears [2, 1, 0, 1, 0]
+threw [2, 0, 1, 2, 1]
+tower [2, 2, 2, 2, 2]
+tower   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [0, 2, 2, 2, 2]
+winds [0, 2, 2, 2, 2]
+finds [2, 2, 2, 2, 2]
+finds   5
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 0]
+river [1, 1, 0, 2, 2]
+inner [2, 2, 2, 2, 2]
+inner   4
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 0, 0, 1]
+study [2, 2, 2, 0, 0]
+stuck [2, 2, 2, 2, 2]
+stuck   4
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 2, 1]
+arrow [2, 2, 2, 2, 2]
+arrow   3
+tears [0, 1, 0, 0, 2]
+miles [1, 0, 0, 1, 2]
+poems [2, 2, 2, 2, 2]
+poems   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 2, 1, 1]
+label [2, 2, 2, 2, 2]
+label   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 2, 2, 0]
+swing [2, 2, 2, 2, 2]
+swing   3
+tears [0, 0, 1, 1, 1]
+sugar [2, 0, 0, 2, 2]
+solar [2, 2, 2, 2, 2]
+solar   3
+tears [2, 0, 0, 1, 0]
+truck [2, 2, 2, 0, 0]
+truth [2, 2, 2, 1, 0]
+truly [2, 2, 2, 2, 2]
+truly   4
+tears [2, 2, 0, 0, 1]
+tense [2, 2, 2, 2, 2]
+tense   2
+tears [0, 2, 2, 0, 2]
+beams [2, 2, 2, 0, 2]
+beans [2, 2, 2, 2, 2]
+beans   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 1, 0, 2]
+split [2, 2, 2, 2, 2]
+split   3
+tears [0, 1, 0, 1, 2]
+rises [2, 2, 2, 2, 2]
+rises   2
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 0, 0, 2]
+weigh [2, 2, 2, 2, 2]
+weigh   3
+tears [1, 1, 0, 0, 0]
+fleet [0, 1, 1, 2, 1]
+hotel [2, 2, 2, 2, 2]
+hotel   3
+tears [1, 1, 0, 0, 2]
+steps [2, 2, 2, 0, 2]
+stems [2, 2, 2, 2, 2]
+stems   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 1, 1]
+pride [2, 2, 2, 2, 2]
+pride   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 0, 2, 0]
+sound [2, 0, 2, 2, 0]
+swung [2, 2, 2, 2, 2]
+swung   4
+tears [0, 1, 2, 1, 0]
+grave [2, 2, 2, 0, 2]
+grade [2, 2, 2, 2, 2]
+grade   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 0]
+built [0, 0, 1, 0, 2]
+digit [2, 2, 2, 2, 2]
+digit   4
+tears [0, 0, 1, 0, 0]
+canal [0, 2, 0, 1, 1]
+daily [1, 2, 0, 2, 2]
+badly [2, 2, 2, 2, 2]
+badly   4
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 2, 0, 2]
+boots [2, 2, 2, 2, 2]
+boots   3
+tears [1, 0, 0, 0, 0]
+month [0, 1, 0, 1, 0]
+pilot [2, 2, 2, 2, 2]
+pilot   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [0, 2, 1, 2, 2]
+waves [0, 2, 0, 2, 2]
+lakes [1, 2, 0, 2, 2]
+sales [2, 2, 2, 2, 2]
+sales   6
+tears [1, 1, 0, 0, 1]
+spent [2, 1, 2, 0, 2]
+slept [2, 0, 2, 2, 2]
+swept [2, 2, 2, 2, 2]
+swept   4
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 0, 0, 0]
+fully [0, 2, 1, 1, 2]
+lucky [2, 2, 2, 2, 2]
+lucky   4
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 1, 0]
+prime [2, 2, 2, 0, 2]
+prize [2, 2, 2, 2, 2]
+prize   4
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 1, 0, 1]
+style [2, 2, 0, 0, 2]
+stove [2, 2, 2, 2, 2]
+stove   4
+tears [2, 1, 0, 0, 2]
+tunes [2, 2, 0, 2, 2]
+tubes [2, 2, 2, 2, 2]
+tubes   3
+tears [0, 1, 1, 1, 2]
+areas [2, 1, 1, 1, 2]
+acres [2, 2, 2, 2, 2]
+acres   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 2, 2]
+found [0, 2, 2, 2, 2]
+pound [0, 2, 2, 2, 2]
+wound [2, 2, 2, 2, 2]
+wound   5
+tears [1, 1, 0, 0, 1]
+spent [2, 1, 2, 0, 1]
+steep [2, 2, 2, 2, 2]
+steep   3
+tears [0, 1, 0, 0, 1]
+slice [2, 2, 2, 0, 2]
+slide [2, 2, 2, 2, 2]
+slide   3
+tears [2, 0, 0, 1, 0]
+truck [2, 2, 2, 0, 2]
+trunk [2, 2, 2, 2, 2]
+trunk   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 1, 0]
+broke [0, 2, 1, 0, 1]
+error [2, 2, 2, 2, 2]
+error   4
+tears [0, 0, 0, 1, 0]
+round [1, 2, 0, 0, 0]
+color [1, 2, 0, 1, 1]
+porch [2, 2, 2, 2, 2]
+porch   4
+tears [0, 1, 2, 0, 1]
+shape [2, 0, 2, 0, 2]
+scale [2, 0, 2, 1, 2]
+slave [2, 2, 2, 2, 2]
+slave   4
+tears [1, 1, 0, 0, 1]
+spent [1, 0, 1, 0, 2]
+exist [2, 2, 2, 2, 2]
+exist   3
+tears [0, 1, 1, 0, 0]
+cable [1, 2, 0, 0, 1]
+faced [2, 2, 2, 2, 2]
+faced   3
+tears [0, 1, 0, 0, 2]
+miles [2, 2, 0, 2, 2]
+mines [2, 2, 2, 2, 2]
+mines   3
+tears [0, 0, 1, 2, 0]
+carry [0, 2, 2, 2, 2]
+marry [2, 2, 2, 2, 2]
+marry   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 1, 0]
+piece [0, 1, 1, 2, 2]
+juice [2, 2, 2, 2, 2]
+juice   4
+tears [0, 1, 1, 1, 0]
+cared [1, 2, 1, 2, 2]
+raced [2, 2, 2, 2, 2]
+raced   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 0, 1]
+named [0, 2, 0, 2, 2]
+waved [2, 2, 2, 2, 2]
+waved   4
+tears [0, 1, 0, 0, 1]
+slice [1, 0, 0, 0, 2]
+house [0, 2, 0, 2, 2]
+goose [2, 2, 2, 2, 2]
+goose   4
+tears [2, 0, 0, 1, 1]
+trust [2, 2, 2, 2, 2]
+trust   2
+tears [0, 2, 0, 1, 0]
+never [0, 2, 0, 2, 2]
+refer [1, 2, 1, 2, 2]
+fewer [2, 2, 2, 2, 2]
+fewer   4
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 2, 2]
+vapor [1, 2, 0, 2, 2]
+favor [2, 2, 2, 2, 2]
+favor   4
+tears [0, 0, 0, 0, 2]
+lions [1, 2, 0, 0, 2]
+hills [0, 2, 2, 2, 2]
+mills [2, 2, 2, 2, 2]
+mills   4
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 1, 2]
+views [2, 2, 2, 2, 2]
+views   3
+tears [1, 0, 0, 0, 0]
+month [0, 2, 1, 1, 0]
+point [0, 2, 2, 2, 2]
+joint [2, 2, 2, 2, 2]
+joint   4
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 1, 2, 0]
+paper [0, 2, 0, 2, 2]
+layer [0, 2, 0, 2, 2]
+eager [2, 2, 2, 2, 2]
+eager   5
+tears [1, 0, 0, 0, 2]
+stops [2, 1, 2, 1, 2]
+spots [2, 2, 2, 2, 2]
+spots   3
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 2]
+field [0, 0, 2, 1, 2]
+blend [2, 2, 2, 2, 2]
+blend   4
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 1, 0, 2]
+rings [2, 2, 2, 2, 2]
+rings   3
+tears [1, 0, 1, 0, 0]
+habit [0, 1, 0, 0, 2]
+adult [2, 2, 2, 2, 2]
+adult   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 1]
+index [2, 2, 2, 2, 2]
+index   3
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 1, 0, 2]
+nails [2, 2, 2, 2, 2]
+nails   3
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 2, 0, 2]
+words [0, 2, 2, 0, 2]
+horns [2, 2, 2, 2, 2]
+horns   4
+tears [0, 0, 1, 0, 2]
+banks [2, 2, 0, 0, 2]
+basis [2, 2, 1, 0, 2]
+balls [2, 2, 2, 2, 2]
+balls   4
+tears [0, 1, 2, 0, 0]
+blame [0, 2, 2, 2, 2]
+flame [2, 2, 2, 2, 2]
+flame   3
+tears [1, 1, 1, 1, 2]
+rates [2, 2, 2, 2, 2]
+rates   2
+tears [0, 0, 0, 1, 0]
+round [1, 0, 0, 0, 1]
+drill [2, 2, 2, 2, 2]
+drill   3
+tears [2, 1, 2, 1, 0]
+trade [2, 2, 2, 0, 2]
+trace [2, 2, 2, 2, 2]
+trace   3
+tears [0, 0, 0, 0, 2]
+lions [0, 1, 0, 2, 2]
+skins [2, 2, 2, 2, 2]
+skins   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 0, 1]
+named [0, 2, 0, 2, 2]
+waved [2, 2, 0, 2, 2]
+waxed [2, 2, 2, 2, 2]
+waxed   5
+tears [1, 2, 2, 0, 2]
+beats [0, 2, 2, 2, 2]
+seats [2, 2, 2, 2, 2]
+seats   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 0, 2, 1]
+stuff [2, 2, 2, 2, 2]
+stuff   3
+tears [1, 0, 1, 1, 0]
+party [0, 2, 1, 1, 0]
+ratio [2, 2, 2, 2, 2]
+ratio   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [0, 2, 2, 2, 2]
+winds [0, 2, 2, 2, 2]
+finds [0, 2, 2, 2, 2]
+minds [2, 2, 2, 2, 2]
+minds   6
+tears [1, 0, 0, 1, 0]
+forth [0, 0, 2, 2, 0]
+dirty [2, 2, 2, 2, 2]
+dirty   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 1, 0, 2]
+silly [2, 2, 2, 2, 2]
+silly   3
+tears [0, 0, 0, 0, 2]
+lions [0, 1, 1, 2, 2]
+coins [2, 2, 2, 2, 2]
+coins   3
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 0, 0, 1]
+hello [2, 2, 2, 2, 2]
+hello   3
+tears [2, 0, 0, 1, 2]
+turns [2, 0, 1, 0, 2]
+trips [2, 2, 2, 2, 2]
+trips   3
+tears [0, 2, 2, 0, 2]
+beams [0, 2, 2, 0, 2]
+heads [0, 2, 2, 2, 2]
+leads [2, 2, 2, 2, 2]
+leads   4
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 1, 0]
+rifle [2, 2, 2, 2, 2]
+rifle   3
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [0, 2, 0, 2, 2]
+hopes [2, 2, 2, 2, 2]
+hopes   4
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [0, 2, 2, 2, 2]
+bases [2, 2, 2, 2, 2]
+bases   4
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 2, 0, 2]
+shine [2, 2, 2, 2, 2]
+shine   3
+tears [0, 2, 0, 0, 0]
+bench [2, 2, 2, 2, 2]
+bench   2
+tears [0, 0, 1, 1, 0]
+mayor [2, 1, 0, 1, 1]
+moral [2, 2, 2, 2, 2]
+moral   3
+tears [0, 1, 0, 1, 2]
+rises [1, 2, 1, 2, 2]
+wires [0, 2, 2, 2, 2]
+fires [2, 2, 2, 2, 2]
+fires   4
+tears [0, 2, 2, 0, 2]
+beams [0, 2, 2, 1, 2]
+means [2, 2, 2, 0, 2]
+meals [2, 2, 2, 2, 2]
+meals   4
+tears [0, 1, 2, 0, 1]
+shape [2, 2, 2, 0, 2]
+shade [2, 2, 2, 0, 2]
+shake [2, 2, 2, 2, 2]
+shake   4
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [0, 1, 2, 0, 2]
+shops [2, 2, 2, 2, 2]
+shops   4
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 0]
+uncle [0, 0, 2, 2, 2]
+cycle [2, 2, 2, 2, 2]
+cycle   4
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 2, 1, 0]
+movie [2, 2, 2, 2, 2]
+movie   3
+tears [0, 1, 0, 0, 1]
+slice [2, 2, 0, 0, 2]
+slope [2, 2, 2, 2, 2]
+slope   3
+tears [0, 1, 1, 0, 0]
+cable [2, 2, 0, 0, 2]
+canoe [2, 2, 2, 2, 2]
+canoe   3
+tears [2, 2, 2, 0, 2]
+teams [2, 2, 2, 2, 2]
+teams   2
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 1, 0, 2]
+holds [0, 2, 2, 0, 2]
+folks [2, 2, 2, 2, 2]
+folks   4
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 2]
+fired [2, 2, 2, 2, 2]
+fired   3
+tears [0, 0, 1, 0, 2]
+banks [2, 2, 2, 0, 2]
+bands [2, 2, 2, 2, 2]
+bands   3
+tears [2, 0, 0, 0, 0]
+thing [2, 2, 0, 0, 0]
+thumb [2, 2, 2, 2, 2]
+thumb   3
+tears [1, 0, 0, 0, 1]
+shift [2, 2, 0, 0, 2]
+shoot [2, 2, 2, 1, 2]
+shout [2, 2, 2, 2, 2]
+shout   4
+tears [0, 0, 1, 0, 0]
+canal [2, 2, 2, 2, 2]
+canal   2
+tears [1, 0, 1, 0, 0]
+habit [2, 2, 2, 2, 2]
+habit   2
+tears [0, 2, 0, 1, 0]
+never [0, 2, 0, 1, 1]
+reply [2, 2, 2, 2, 2]
+reply   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 2]
+ruled [2, 2, 2, 2, 2]
+ruled   3
+tears [0, 2, 0, 1, 0]
+never [0, 2, 2, 2, 2]
+fever [2, 2, 2, 2, 2]
+fever   3
+tears [1, 0, 0, 1, 1]
+first [0, 0, 1, 2, 2]
+crust [2, 2, 2, 2, 2]
+crust   3
+tears [0, 1, 0, 0, 1]
+slice [2, 1, 0, 0, 1]
+spell [2, 0, 2, 2, 1]
+shelf [2, 2, 2, 2, 2]
+shelf   4
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 0, 2, 2]
+walks [2, 2, 2, 2, 2]
+walks   3
+tears [1, 0, 0, 0, 1]
+shift [1, 0, 1, 0, 2]
+visit [0, 2, 1, 1, 2]
+midst [2, 2, 2, 2, 2]
+midst   4
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 0, 0]
+crack [2, 2, 2, 2, 2]
+crack   3
+tears [1, 0, 0, 1, 0]
+forth [0, 0, 1, 1, 0]
+print [2, 2, 2, 2, 2]
+print   3
+tears [2, 1, 1, 0, 2]
+takes [2, 2, 0, 2, 2]
+tales [2, 2, 2, 2, 2]
+tales   3
+tears [0, 0, 2, 0, 0]
+claim [2, 0, 2, 0, 0]
+coach [2, 2, 2, 2, 2]
+coach   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 2, 2, 1]
+stiff [2, 2, 2, 2, 2]
+stiff   3
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 0, 0, 2]
+cloud [0, 2, 2, 0, 2]
+flood [2, 2, 2, 2, 2]
+flood   4
+tears [0, 2, 0, 1, 1]
+serve [1, 2, 2, 1, 2]
+verse [2, 2, 2, 2, 2]
+verse   3
+tears [0, 1, 2, 0, 0]
+blame [0, 0, 2, 0, 2]
+awake [2, 2, 2, 2, 2]
+awake   3
+tears [0, 0, 0, 1, 0]
+round [2, 2, 0, 0, 0]
+rocky [2, 2, 2, 2, 2]
+rocky   3
+tears [0, 0, 1, 1, 0]
+mayor [2, 2, 0, 0, 1]
+march [2, 2, 2, 2, 2]
+march   3
+tears [1, 0, 1, 0, 0]
+habit [0, 2, 0, 0, 2]
+fault [2, 2, 2, 2, 2]
+fault   3
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 2, 2, 2]
+swift [2, 2, 2, 2, 2]
+swift   3
+tears [1, 0, 1, 0, 0]
+habit [0, 2, 0, 1, 2]
+paint [0, 2, 2, 2, 2]
+faint [2, 2, 2, 2, 2]
+faint   4
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 1, 0, 0]
+civil [2, 2, 2, 2, 2]
+civil   3
+tears [1, 0, 0, 0, 1]
+shift [1, 2, 0, 0, 2]
+ghost [2, 2, 2, 2, 2]
+ghost   3
+tears [1, 2, 2, 0, 1]
+least [0, 2, 2, 2, 2]
+feast [2, 2, 2, 2, 2]
+feast   3
+tears [0, 1, 2, 0, 0]
+blame [2, 2, 2, 0, 2]
+blade [2, 2, 2, 2, 2]
+blade   3
+tears [1, 0, 0, 0, 0]
+month [1, 0, 0, 1, 0]
+limit [2, 2, 2, 2, 2]
+limit   3
+tears [0, 2, 0, 1, 2]
+verbs [0, 2, 2, 0, 2]
+germs [2, 2, 2, 2, 2]
+germs   3
+tears [0, 2, 2, 1, 2]
+reads [2, 2, 2, 2, 2]
+reads   2
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 0, 0, 2]
+ducks [2, 2, 2, 2, 2]
+ducks   3
+tears [0, 0, 1, 2, 0]
+carry [0, 2, 1, 2, 2]
+dairy [2, 2, 2, 2, 2]
+dairy   3
+tears [1, 0, 0, 1, 1]
+first [0, 0, 2, 2, 2]
+burst [0, 0, 2, 2, 2]
+worst [2, 2, 2, 2, 2]
+worst   4
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 0, 0, 2]
+gifts [2, 2, 2, 2, 2]
+gifts   3
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 0, 0, 2]
+gifts [0, 2, 0, 2, 2]
+lists [2, 2, 2, 2, 2]
+lists   4
+tears [1, 0, 0, 0, 2]
+stops [2, 2, 2, 2, 2]
+stops   2
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 0, 1]
+ranch [2, 2, 0, 0, 0]
+rapid [2, 2, 2, 2, 2]
+rapid   4
+tears [0, 0, 0, 1, 0]
+round [1, 0, 0, 0, 0]
+brick [2, 2, 2, 2, 2]
+brick   3
+tears [0, 0, 2, 0, 2]
+glass [0, 2, 2, 1, 2]
+plans [0, 2, 2, 0, 2]
+claws [2, 2, 2, 2, 2]
+claws   4
+tears [0, 2, 2, 0, 2]
+beams [2, 2, 2, 0, 2]
+beans [2, 2, 2, 0, 2]
+beads [2, 2, 2, 2, 2]
+beads   4
+tears [1, 2, 2, 0, 1]
+least [0, 2, 2, 2, 2]
+feast [0, 2, 2, 2, 2]
+beast [2, 2, 2, 2, 2]
+beast   4
+tears [1, 0, 0, 2, 1]
+short [2, 0, 0, 2, 2]
+skirt [2, 2, 2, 2, 2]
+skirt   3
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [2, 2, 1, 2, 2]
+cakes [2, 2, 2, 2, 2]
+cakes   4
+tears [0, 0, 0, 0, 2]
+lions [2, 2, 2, 2, 2]
+lions   2
+tears [0, 0, 0, 1, 2]
+forms [2, 1, 1, 0, 2]
+frogs [2, 2, 2, 2, 2]
+frogs   3
+tears [2, 1, 0, 1, 2]
+trees [2, 2, 1, 2, 2]
+tries [2, 2, 2, 2, 2]
+tries   3
+tears [0, 2, 0, 1, 0]
+never [2, 2, 1, 1, 1]
+nerve [2, 2, 2, 2, 2]
+nerve   3
+tears [0, 0, 2, 1, 0]
+grand [2, 2, 2, 2, 2]
+grand   2
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 1, 2, 2]
+armed [2, 2, 2, 2, 2]
+armed   3
+tears [2, 1, 1, 1, 0]
+treat [2, 2, 2, 2, 2]
+treat   2
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 0, 2, 0]
+money [0, 2, 2, 2, 2]
+honey [2, 2, 2, 2, 2]
+honey   4
+tears [1, 0, 0, 0, 1]
+shift [1, 0, 2, 0, 2]
+moist [2, 2, 2, 2, 2]
+moist   3
+tears [0, 2, 1, 0, 0]
+legal [2, 2, 2, 2, 2]
+legal   2
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 2, 0, 0]
+penny [2, 2, 2, 2, 2]
+penny   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 1, 0]
+brown [0, 2, 2, 2, 2]
+grown [0, 2, 2, 2, 2]
+crown [2, 2, 2, 2, 2]
+crown   5
+tears [0, 0, 0, 0, 1]
+shiny [2, 2, 0, 0, 0]
+shook [2, 2, 2, 1, 2]
+shock [2, 2, 2, 2, 2]
+shock   4
+tears [2, 1, 1, 0, 2]
+takes [2, 2, 0, 2, 2]
+tales [2, 2, 0, 2, 2]
+taxes [2, 2, 2, 2, 2]
+taxes   4
+tears [1, 0, 0, 0, 1]
+shift [2, 0, 1, 0, 1]
+sixty [2, 2, 2, 2, 2]
+sixty   3
+tears [1, 0, 1, 1, 0]
+party [0, 1, 1, 1, 0]
+altar [2, 2, 2, 2, 2]
+altar   3
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 0, 0, 2]
+pulls [2, 2, 2, 2, 2]
+pulls   3
+tears [1, 0, 0, 2, 1]
+short [2, 0, 2, 2, 2]
+sport [2, 2, 2, 2, 2]
+sport   3
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 1, 2, 2]
+drums [2, 2, 2, 2, 2]
+drums   3
+tears [2, 0, 1, 0, 2]
+talks [2, 2, 2, 2, 2]
+talks   2
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 2, 2, 1]
+doing [2, 0, 2, 2, 2]
+dying [2, 2, 2, 2, 2]
+dying   4
+tears [1, 1, 1, 0, 2]
+dates [2, 2, 2, 2, 2]
+dates   2
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 2, 1]
+drank [2, 2, 2, 2, 2]
+drank   3
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 2, 0, 2]
+flows [0, 2, 2, 2, 2]
+blows [2, 2, 2, 2, 2]
+blows   4
+tears [0, 2, 0, 1, 0]
+never [0, 2, 2, 2, 2]
+fever [0, 2, 2, 2, 2]
+lever [2, 2, 2, 2, 2]
+lever   4
+tears [0, 1, 1, 0, 2]
+games [1, 2, 0, 2, 2]
+pages [0, 2, 2, 2, 2]
+wages [2, 2, 2, 2, 2]
+wages   4
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 0, 0]
+brook [0, 2, 2, 2, 0]
+proof [2, 2, 2, 2, 2]
+proof   4
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 1, 0, 2]
+rings [1, 0, 0, 2, 2]
+drugs [2, 2, 2, 2, 2]
+drugs   4
+tears [2, 0, 1, 0, 2]
+talks [2, 2, 0, 2, 2]
+tanks [2, 2, 2, 2, 2]
+tanks   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [0, 2, 2, 0, 2]
+wings [0, 2, 2, 2, 2]
+sings [2, 2, 2, 2, 2]
+sings   5
+tears [2, 0, 1, 0, 2]
+talks [2, 2, 1, 0, 2]
+tails [2, 2, 2, 2, 2]
+tails   3
+tears [0, 1, 1, 0, 1]
+sauce [1, 2, 2, 0, 2]
+pause [2, 2, 2, 2, 2]
+pause   3
+tears [0, 2, 0, 1, 2]
+verbs [0, 2, 2, 0, 2]
+germs [0, 2, 2, 0, 2]
+herds [2, 2, 2, 2, 2]
+herds   4
+tears [0, 1, 1, 1, 1]
+raise [1, 1, 0, 2, 2]
+arose [2, 2, 2, 2, 2]
+arose   3
+tears [1, 1, 1, 0, 0]
+eaten [1, 2, 2, 2, 0]
+hated [2, 2, 2, 2, 2]
+hated   3
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 1, 2, 2]
+loves [1, 0, 0, 2, 2]
+clues [2, 2, 2, 2, 2]
+clues   4
+tears [0, 1, 0, 0, 0]
+loved [1, 2, 2, 2, 0]
+novel [2, 2, 2, 2, 2]
+novel   3
+tears [0, 1, 2, 0, 1]
+shape [2, 2, 2, 0, 2]
+shade [2, 2, 2, 0, 2]
+shake [2, 2, 2, 0, 2]
+shame [2, 2, 2, 2, 2]
+shame   5
+tears [1, 0, 0, 1, 0]
+forth [0, 0, 2, 1, 0]
+burnt [2, 2, 2, 2, 2]
+burnt   3
+tears [0, 1, 1, 1, 2]
+areas [1, 1, 1, 1, 2]
+races [2, 2, 2, 2, 2]
+races   3
+tears [0, 0, 2, 0, 1]
+small [1, 0, 2, 1, 1]
+flash [2, 2, 2, 2, 2]
+flash   3
+tears [0, 2, 2, 2, 0]
+heard [0, 2, 2, 2, 0]
+learn [0, 2, 2, 2, 0]
+weary [2, 2, 2, 2, 2]
+weary   4
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 0, 2]
+weeks [0, 2, 2, 0, 2]
+feels [0, 2, 2, 2, 2]
+heels [2, 2, 2, 2, 2]
+heels   5
+tears [2, 1, 0, 0, 0]
+twice [2, 0, 0, 0, 1]
+token [2, 2, 2, 2, 2]
+token   3
+tears [1, 0, 2, 0, 2]
+boats [0, 2, 2, 2, 2]
+coats [2, 2, 2, 2, 2]
+coats   3
+tears [0, 1, 2, 2, 1]
+share [2, 0, 2, 2, 2]
+spare [2, 2, 2, 2, 2]
+spare   3
+tears [0, 0, 0, 0, 1]
+shiny [2, 2, 2, 2, 2]
+shiny   2
+tears [0, 0, 2, 2, 0]
+board [0, 0, 2, 2, 0]
+alarm [2, 2, 2, 2, 2]
+alarm   3
+tears [0, 1, 0, 0, 2]
+miles [1, 2, 0, 2, 2]
+dimes [2, 2, 2, 2, 2]
+dimes   3
+tears [1, 0, 0, 0, 1]
+shift [2, 1, 1, 0, 1]
+sixth [2, 2, 2, 2, 2]
+sixth   3
+tears [0, 1, 0, 2, 0]
+where [0, 0, 2, 2, 1]
+every [1, 0, 2, 2, 0]
+clerk [2, 2, 2, 2, 2]
+clerk   4
+tears [0, 2, 0, 1, 0]
+never [0, 2, 0, 1, 1]
+reply [1, 2, 0, 0, 2]
+mercy [2, 2, 2, 2, 2]
+mercy   4
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 0, 2, 2]
+sunny [2, 2, 2, 2, 2]
+sunny   3
+tears [1, 1, 0, 0, 1]
+spent [1, 0, 2, 0, 2]
+chest [0, 0, 2, 2, 2]
+guest [2, 2, 2, 2, 2]
+guest   4
+tears [1, 0, 1, 0, 0]
+habit [0, 1, 0, 0, 2]
+adult [1, 0, 0, 1, 2]
+float [2, 2, 2, 2, 2]
+float   4
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 2]
+spoke [2, 0, 2, 0, 2]
+shone [2, 2, 2, 2, 2]
+shone   4
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [1, 2, 0, 2, 2]
+gives [0, 2, 0, 2, 2]
+pipes [2, 2, 2, 2, 2]
+pipes   5
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 2, 2, 2]
+worms [2, 2, 2, 2, 2]
+worms   3
+tears [0, 0, 0, 0, 2]
+lions [1, 2, 0, 0, 2]
+hills [0, 2, 2, 2, 2]
+mills [0, 2, 2, 2, 2]
+bills [2, 2, 2, 2, 2]
+bills   5
+tears [1, 1, 1, 0, 1]
+steam [2, 1, 2, 2, 0]
+sweat [2, 2, 2, 2, 2]
+sweat   3
+tears [1, 0, 0, 0, 2]
+stops [2, 1, 0, 0, 2]
+suits [2, 2, 2, 2, 2]
+suits   3
+tears [1, 0, 2, 2, 1]
+start [2, 1, 2, 2, 2]
+smart [2, 2, 2, 2, 2]
+smart   3
+tears [1, 1, 0, 0, 1]
+spent [1, 2, 1, 0, 2]
+upset [2, 2, 2, 2, 2]
+upset   3
+tears [0, 0, 1, 1, 2]
+marks [0, 2, 1, 0, 2]
+rains [2, 2, 2, 2, 2]
+rains   3
+tears [0, 0, 1, 0, 1]
+sandy [2, 2, 2, 2, 2]
+sandy   2
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 1, 0, 1]
+rainy [2, 2, 2, 2, 2]
+rainy   3
+tears [0, 0, 1, 1, 2]
+marks [0, 2, 2, 2, 2]
+parks [2, 2, 2, 2, 2]
+parks   3
+tears [0, 0, 1, 0, 1]
+sandy [2, 2, 0, 1, 2]
+sadly [2, 2, 2, 2, 2]
+sadly   3
+tears [0, 0, 1, 0, 0]
+canal [1, 2, 2, 1, 0]
+fancy [2, 2, 2, 2, 2]
+fancy   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 1]
+rider [2, 2, 2, 2, 2]
+rider   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 1, 2, 0]
+unity [2, 2, 2, 2, 2]
+unity   3
+tears [0, 0, 0, 0, 0]
+blind [2, 0, 0, 1, 0]
+bunch [2, 2, 2, 2, 2]
+bunch   3
+tears [0, 0, 0, 1, 2]
+forms [0, 2, 1, 0, 2]
+rocks [2, 2, 0, 0, 2]
+rolls [2, 2, 2, 2, 2]
+rolls   4
+tears [0, 0, 2, 1, 1]
+crash [2, 2, 2, 2, 2]
+crash   2
+tears [1, 0, 2, 1, 0]
+craft [2, 2, 2, 2, 2]
+craft   2
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 1, 0, 0]
+newly [2, 2, 2, 2, 2]
+newly   3
+tears [1, 1, 1, 0, 2]
+dates [0, 2, 2, 2, 2]
+gates [2, 2, 2, 2, 2]
+gates   3
+tears [1, 0, 1, 0, 0]
+habit [2, 2, 0, 0, 1]
+hatch [2, 2, 2, 2, 2]
+hatch   3
+tears [1, 0, 1, 0, 2]
+wants [0, 2, 0, 1, 2]
+paths [2, 2, 2, 2, 2]
+paths   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 0, 1, 2]
+funds [2, 2, 2, 2, 2]
+funds   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 1]
+rider [1, 2, 2, 2, 2]
+wider [2, 2, 2, 2, 2]
+wider   4
+tears [0, 1, 2, 1, 0]
+grave [2, 2, 2, 0, 2]
+grade [2, 2, 2, 0, 2]
+grace [2, 2, 2, 2, 2]
+grace   4
+tears [0, 1, 2, 1, 0]
+grave [2, 2, 2, 2, 2]
+grave   2
+tears [2, 1, 0, 0, 2]
+tunes [2, 0, 0, 2, 2]
+times [2, 2, 0, 2, 2]
+tides [2, 2, 2, 2, 2]
+tides   4
+tears [1, 0, 1, 0, 0]
+habit [0, 1, 0, 2, 2]
+admit [2, 2, 2, 2, 2]
+admit   3
+tears [1, 0, 0, 0, 1]
+shift [2, 2, 2, 2, 2]
+shift   2
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 0, 0, 2]
+walls [0, 2, 1, 2, 2]
+sails [2, 2, 2, 2, 2]
+sails   4
+tears [0, 0, 0, 0, 0]
+blind [0, 1, 1, 0, 0]
+civil [0, 1, 0, 2, 2]
+pupil [2, 2, 2, 2, 2]
+pupil   4
+tears [2, 1, 0, 1, 0]
+threw [2, 0, 1, 2, 0]
+tried [2, 1, 1, 2, 0]
+tiger [2, 2, 2, 2, 2]
+tiger   4
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 1]
+equal [1, 0, 0, 1, 2]
+angel [2, 2, 2, 2, 2]
+angel   4
+tears [0, 1, 0, 1, 0]
+cried [2, 2, 0, 2, 0]
+cruel [2, 2, 2, 2, 2]
+cruel   3
+tears [1, 1, 1, 0, 0]
+eaten [1, 1, 1, 1, 1]
+agent [2, 2, 2, 2, 2]
+agent   3
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 0, 1]
+drama [2, 2, 2, 2, 2]
+drama   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 2, 2]
+urged [2, 2, 2, 2, 2]
+urged   3
+tears [1, 0, 1, 0, 0]
+habit [1, 2, 0, 0, 1]
+watch [0, 2, 2, 2, 2]
+catch [1, 2, 2, 2, 2]
+match [0, 2, 2, 2, 2]
+patch [2, 2, 2, 2, 2]
+patch   6
+tears [1, 2, 0, 0, 2]
+cents [0, 2, 1, 2, 2]
+nests [2, 2, 2, 2, 2]
+nests   3
+tears [1, 0, 1, 0, 0]
+habit [0, 1, 0, 1, 1]
+vital [2, 2, 2, 2, 2]
+vital   3
+tears [0, 0, 0, 2, 1]
+sorry [2, 1, 1, 2, 0]
+sword [2, 2, 2, 2, 2]
+sword   3
+tears [0, 1, 2, 0, 0]
+blame [2, 2, 2, 2, 2]
+blame   2
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 2, 2]
+needs [0, 2, 2, 2, 2]
+weeds [2, 2, 2, 2, 2]
+weeds   4
+tears [0, 1, 0, 1, 1]
+horse [0, 0, 2, 1, 1]
+screw [2, 2, 2, 2, 2]
+screw   3
+tears [0, 0, 1, 0, 0]
+canal [1, 1, 0, 2, 2]
+local [1, 2, 2, 2, 2]
+vocal [2, 2, 2, 2, 2]
+vocal   4
+tears [0, 0, 1, 0, 0]
+canal [1, 2, 1, 1, 0]
+bacon [2, 2, 2, 2, 2]
+bacon   3
+tears [0, 0, 2, 0, 0]
+claim [2, 1, 2, 0, 0]
+chalk [2, 2, 2, 2, 2]
+chalk   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 1, 1]
+radio [1, 2, 0, 0, 2]
+cargo [2, 2, 2, 2, 2]
+cargo   4
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 0, 0]
+crack [2, 2, 2, 1, 0]
+crazy [2, 2, 2, 2, 2]
+crazy   4
+tears [1, 1, 1, 0, 0]
+eaten [1, 1, 2, 2, 0]
+acted [2, 2, 2, 2, 2]
+acted   3
+tears [1, 0, 2, 0, 2]
+boats [0, 2, 2, 2, 2]
+coats [0, 2, 2, 2, 2]
+goats [2, 2, 2, 2, 2]
+goats   4
+tears [0, 1, 1, 1, 1]
+raise [1, 1, 2, 2, 2]
+arise [2, 2, 2, 2, 2]
+arise   3
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 2]
+pitch [0, 2, 2, 2, 2]
+witch [2, 2, 2, 2, 2]
+witch   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 1, 2, 2]
+loves [2, 2, 2, 2, 2]
+loves   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 0, 2, 0]
+power [0, 0, 0, 2, 2]
+ruler [1, 2, 0, 2, 2]
+queer [2, 2, 2, 2, 2]
+queer   5
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 1]
+dwell [2, 2, 2, 2, 2]
+dwell   3
+tears [0, 0, 1, 0, 2]
+banks [2, 2, 0, 2, 2]
+backs [2, 2, 2, 2, 2]
+backs   3
+tears [0, 1, 0, 1, 2]
+rises [2, 0, 1, 2, 2]
+rules [2, 0, 0, 2, 2]
+ropes [2, 2, 2, 2, 2]
+ropes   4
+tears [1, 0, 0, 0, 2]
+stops [2, 1, 2, 0, 2]
+shots [2, 2, 2, 2, 2]
+shots   3
+tears [0, 2, 0, 2, 0]
+merry [2, 2, 2, 2, 2]
+merry   2
+tears [0, 1, 0, 0, 0]
+loved [0, 1, 0, 1, 0]
+enjoy [1, 1, 0, 1, 0]
+phone [2, 2, 2, 2, 2]
+phone   4
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 0]
+chief [2, 2, 0, 2, 0]
+cheek [2, 2, 2, 2, 2]
+cheek   4
+tears [0, 2, 2, 0, 2]
+beams [0, 2, 2, 0, 2]
+heads [0, 2, 2, 0, 2]
+peaks [2, 2, 2, 2, 2]
+peaks   4
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 1]
+equal [1, 0, 0, 2, 2]
+ideal [2, 2, 2, 2, 2]
+ideal   4
+tears [0, 2, 2, 2, 0]
+heard [0, 2, 2, 2, 2]
+beard [2, 2, 2, 2, 2]
+beard   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 2, 2]
+eagle [2, 2, 2, 2, 2]
+eagle   3
+tears [0, 1, 0, 1, 0]
+cried [2, 2, 0, 2, 0]
+cruel [2, 2, 0, 2, 0]
+creek [2, 2, 2, 2, 2]
+creek   4
+tears [0, 1, 0, 1, 2]
+rises [1, 1, 1, 2, 2]
+cries [2, 2, 2, 2, 2]
+cries   3
+tears [0, 1, 1, 0, 2]
+games [0, 1, 0, 2, 2]
+ashes [2, 2, 2, 2, 2]
+ashes   3
+tears [1, 0, 2, 0, 1]
+slant [2, 1, 2, 0, 1]
+stall [2, 2, 2, 2, 2]
+stall   3
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 1, 2]
+field [0, 2, 2, 2, 2]
+yield [2, 2, 2, 2, 2]
+yield   4
+tears [0, 0, 1, 1, 0]
+mayor [2, 2, 2, 2, 2]
+mayor   2
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 1, 2]
+guess [0, 0, 2, 1, 2]
+opens [2, 2, 2, 2, 2]
+opens   4
+tears [1, 0, 0, 0, 0]
+month [0, 0, 1, 1, 0]
+until [1, 2, 1, 1, 0]
+input [2, 2, 2, 2, 2]
+input   4
+tears [1, 1, 0, 0, 0]
+fleet [2, 2, 2, 2, 2]
+fleet   2
+tears [2, 0, 0, 0, 0]
+thing [2, 1, 0, 0, 0]
+touch [2, 2, 0, 0, 2]
+tooth [2, 2, 2, 2, 2]
+tooth   4
+tears [0, 0, 0, 0, 0]
+blind [1, 0, 1, 0, 0]
+cubic [2, 2, 2, 2, 2]
+cubic   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [1, 2, 0, 2, 2]
+gives [0, 2, 2, 2, 2]
+wives [2, 2, 2, 2, 2]
+wives   5
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 2, 0, 2]
+birds [2, 0, 2, 0, 2]
+burns [2, 2, 2, 2, 2]
+burns   4
+tears [1, 1, 0, 0, 2]
+steps [1, 1, 2, 1, 2]
+poets [2, 2, 2, 2, 2]
+poets   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 2, 1]
+arrow [2, 1, 2, 2, 0]
+apron [2, 2, 2, 2, 2]
+apron   4
+tears [0, 1, 1, 1, 1]
+raise [1, 1, 0, 1, 1]
+spear [2, 2, 2, 2, 2]
+spear   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 1, 1]
+broad [0, 2, 1, 2, 0]
+organ [2, 2, 2, 2, 2]
+organ   4
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 2, 0, 0]
+cliff [2, 2, 2, 2, 2]
+cliff   3
+tears [1, 0, 2, 0, 1]
+slant [2, 0, 2, 0, 1]
+staff [2, 2, 2, 0, 0]
+stamp [2, 2, 2, 2, 2]
+stamp   4
+tears [1, 1, 1, 0, 1]
+steam [1, 1, 1, 1, 0]
+waste [0, 2, 2, 2, 2]
+paste [2, 2, 2, 2, 2]
+paste   4
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 0, 1]
+rural [2, 2, 2, 2, 2]
+rural   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 1, 0, 1]
+baked [2, 2, 2, 2, 2]
+baked   3
+tears [0, 1, 2, 0, 1]
+shape [1, 2, 2, 0, 2]
+chase [2, 2, 2, 2, 2]
+chase   3
+tears [0, 1, 0, 0, 1]
+slice [2, 2, 2, 2, 2]
+slice   2
+tears [1, 0, 2, 0, 1]
+slant [2, 2, 2, 2, 2]
+slant   2
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 1, 0]
+known [2, 2, 2, 0, 1]
+knock [2, 2, 2, 2, 2]
+knock   4
+tears [0, 0, 0, 0, 1]
+shiny [1, 0, 2, 1, 2]
+noisy [2, 2, 2, 2, 2]
+noisy   3
+tears [1, 0, 0, 1, 2]
+sorts [2, 2, 2, 2, 2]
+sorts   2
+tears [1, 0, 2, 0, 2]
+boats [0, 0, 2, 1, 2]
+stays [2, 2, 2, 2, 2]
+stays   3
+tears [0, 1, 0, 0, 0]
+loved [0, 0, 0, 2, 2]
+mixed [0, 2, 0, 2, 2]
+wiped [2, 2, 2, 2, 2]
+wiped   4
+tears [0, 0, 0, 0, 0]
+blind [2, 2, 0, 1, 0]
+blown [2, 2, 2, 2, 2]
+blown   3
+tears [0, 1, 0, 0, 0]
+loved [1, 0, 0, 2, 2]
+piled [2, 2, 2, 2, 2]
+piled   3
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 0, 0, 2]
+pulls [0, 1, 1, 1, 2]
+clubs [2, 2, 2, 2, 2]
+clubs   4
+tears [0, 1, 0, 1, 0]
+cried [2, 1, 0, 2, 0]
+cover [2, 0, 0, 2, 2]
+cheer [2, 2, 2, 2, 2]
+cheer   4
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 1, 0, 1]
+widow [2, 2, 2, 2, 2]
+widow   3
+tears [2, 0, 0, 0, 1]
+twist [2, 2, 2, 2, 2]
+twist   2
+tears [2, 2, 0, 0, 0]
+teeth [2, 2, 1, 2, 2]
+tenth [2, 2, 2, 2, 2]
+tenth   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [1, 2, 2, 2, 2]
+hides [2, 2, 2, 2, 2]
+hides   4
+tears [0, 0, 1, 0, 0]
+canal [2, 1, 0, 1, 0]
+comma [2, 2, 2, 2, 2]
+comma   3
+tears [0, 1, 0, 0, 1]
+slice [2, 0, 0, 0, 1]
+sheep [2, 0, 2, 2, 2]
+sweep [2, 2, 2, 2, 2]
+sweep   4
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 0, 1, 0]
+spoon [2, 2, 2, 2, 2]
+spoon   3
+tears [1, 1, 0, 2, 1]
+store [2, 2, 0, 2, 1]
+stern [2, 2, 2, 2, 2]
+stern   3
+tears [1, 1, 0, 1, 0]
+wrote [0, 2, 0, 1, 1]
+crept [2, 2, 2, 2, 2]
+crept   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 2, 2]
+eagle [1, 2, 0, 2, 2]
+maple [2, 2, 2, 2, 2]
+maple   4
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 2, 2, 2]
+needs [0, 2, 2, 2, 2]
+weeds [0, 2, 2, 2, 2]
+deeds [2, 2, 2, 2, 2]
+deeds   5
+tears [0, 1, 0, 1, 2]
+rises [2, 2, 1, 2, 2]
+rides [2, 2, 2, 2, 2]
+rides   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 0, 1]
+muddy [2, 2, 2, 2, 2]
+muddy   3
+tears [0, 1, 0, 1, 0]
+cried [2, 2, 2, 1, 0]
+crime [2, 2, 2, 2, 2]
+crime   3
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 0, 0, 0]
+level [1, 2, 0, 1, 1]
+jelly [2, 2, 2, 2, 2]
+jelly   4
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 1, 1]
+ridge [2, 2, 2, 2, 2]
+ridge   3
+tears [1, 0, 0, 1, 0]
+forth [1, 0, 1, 1, 0]
+drift [2, 2, 2, 2, 2]
+drift   3
+tears [1, 0, 0, 0, 1]
+shift [1, 0, 0, 0, 1]
+dusty [2, 2, 2, 2, 2]
+dusty   3
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 0, 0, 0]
+level [1, 2, 2, 1, 2]
+devil [2, 2, 2, 2, 2]
+devil   4
+tears [2, 2, 0, 0, 0]
+teeth [2, 2, 1, 1, 0]
+tempo [2, 2, 2, 2, 2]
+tempo   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 1, 0, 0]
+group [0, 1, 1, 1, 0]
+humor [2, 2, 2, 2, 2]
+humor   4
+tears [0, 2, 0, 0, 2]
+seeds [2, 2, 1, 2, 2]
+sends [2, 2, 2, 2, 2]
+sends   3
+tears [1, 1, 1, 0, 1]
+steam [2, 2, 2, 2, 0]
+steal [2, 2, 2, 2, 2]
+steal   3
+tears [2, 2, 0, 0, 2]
+tents [2, 2, 2, 2, 2]
+tents   2
+tears [1, 0, 1, 0, 1]
+waist [2, 2, 2, 2, 2]
+waist   2
+tears [0, 1, 0, 1, 2]
+rises [2, 0, 2, 2, 2]
+roses [2, 2, 2, 2, 2]
+roses   3
+tears [0, 2, 0, 1, 0]
+never [1, 2, 0, 1, 1]
+reign [2, 2, 2, 2, 2]
+reign   3
+tears [0, 1, 0, 0, 0]
+loved [1, 2, 0, 1, 0]
+noble [2, 2, 2, 2, 2]
+noble   3
+tears [0, 1, 1, 0, 0]
+cable [2, 1, 0, 0, 1]
+cheap [2, 2, 2, 2, 2]
+cheap   3
+tears [0, 2, 0, 0, 1]
+seven [1, 2, 0, 1, 1]
+dense [2, 2, 2, 2, 2]
+dense   3
+tears [0, 1, 0, 0, 0]
+loved [2, 0, 0, 2, 0]
+linen [2, 2, 2, 2, 2]
+linen   3
+tears [0, 2, 0, 0, 1]
+seven [1, 2, 0, 1, 0]
+geese [2, 2, 2, 2, 2]
+geese   3
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 2, 2, 0]
+woven [2, 2, 2, 2, 2]
+woven   3
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 1, 1, 2]
+posts [2, 2, 2, 2, 2]
+posts   3
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 2]
+fired [0, 2, 2, 2, 2]
+hired [2, 2, 2, 2, 2]
+hired   4
+tears [1, 0, 2, 1, 0]
+craft [0, 2, 2, 0, 1]
+wrath [2, 2, 2, 2, 2]
+wrath   3
+tears [0, 0, 1, 0, 1]
+sandy [2, 2, 0, 1, 0]
+salad [2, 2, 2, 2, 2]
+salad   3
+tears [0, 1, 0, 0, 0]
+loved [0, 2, 0, 2, 2]
+hoped [0, 2, 0, 2, 2]
+bowed [2, 2, 2, 2, 2]
+bowed   4
+tears [2, 1, 0, 1, 2]
+trees [2, 1, 1, 2, 2]
+tires [2, 2, 2, 2, 2]
+tires   3
+tears [0, 0, 2, 2, 1]
+sharp [2, 2, 2, 2, 0]
+shark [2, 2, 2, 2, 2]
+shark   3
+tears [1, 2, 0, 0, 2]
+cents [0, 2, 0, 2, 2]
+belts [2, 2, 2, 2, 2]
+belts   3
+tears [0, 0, 2, 1, 1]
+crash [0, 2, 2, 2, 0]
+grasp [2, 2, 2, 2, 2]
+grasp   3
+tears [1, 0, 2, 0, 1]
+slant [1, 2, 2, 0, 2]
+blast [2, 2, 2, 2, 2]
+blast   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 1, 2]
+polar [2, 2, 2, 2, 2]
+polar   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 1, 1, 0]
+fungi [2, 2, 2, 2, 2]
+fungi   3
+tears [2, 2, 0, 0, 2]
+tents [2, 2, 2, 1, 2]
+tends [2, 2, 2, 2, 2]
+tends   3
+tears [0, 2, 2, 2, 0]
+heard [0, 2, 2, 2, 0]
+learn [1, 2, 2, 2, 0]
+pearl [2, 2, 2, 2, 2]
+pearl   4
+tears [0, 0, 2, 0, 2]
+glass [0, 1, 2, 1, 2]
+loads [2, 2, 2, 2, 2]
+loads   3
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [0, 2, 0, 2, 2]
+hopes [0, 2, 0, 2, 2]
+jokes [2, 2, 2, 2, 2]
+jokes   5
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 1, 0, 2]
+cells [0, 2, 0, 0, 2]
+veins [2, 2, 2, 2, 2]
+veins   4
+tears [1, 0, 0, 1, 1]
+first [2, 0, 1, 2, 2]
+frost [2, 2, 2, 2, 2]
+frost   3
+tears [0, 2, 2, 2, 2]
+years [0, 2, 2, 2, 2]
+bears [0, 2, 2, 2, 2]
+hears [2, 2, 2, 2, 2]
+hears   4
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 1, 2, 2]
+loves [2, 2, 0, 2, 2]
+loses [2, 2, 2, 2, 2]
+loses   4
+tears [1, 0, 0, 0, 2]
+stops [1, 1, 1, 0, 2]
+costs [0, 2, 2, 2, 2]
+hosts [2, 2, 2, 2, 2]
+hosts   4
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 1]
+rider [1, 2, 1, 2, 2]
+diver [2, 2, 2, 2, 2]
+diver   4
+tears [0, 1, 2, 0, 1]
+shape [1, 2, 2, 1, 2]
+phase [2, 2, 2, 2, 2]
+phase   3
+tears [2, 0, 2, 0, 2]
+toads [2, 2, 2, 2, 2]
+toads   2
+tears [1, 1, 1, 2, 0]
+extra [1, 0, 1, 2, 1]
+alert [2, 2, 2, 2, 2]
+alert   3
+tears [2, 0, 1, 0, 2]
+talks [2, 2, 0, 2, 2]
+tanks [2, 2, 0, 2, 2]
+tasks [2, 2, 2, 2, 2]
+tasks   4
+tears [0, 2, 2, 0, 2]
+beams [0, 2, 2, 2, 2]
+seams [2, 2, 2, 2, 2]
+seams   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 1, 1]
+broad [0, 1, 1, 2, 0]
+coral [2, 2, 2, 2, 2]
+coral   4
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 1, 0, 2]
+focus [2, 2, 2, 2, 2]
+focus   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 0, 1]
+named [2, 2, 0, 2, 2]
+naked [2, 2, 2, 2, 2]
+naked   4
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 0, 0, 0]
+puppy [2, 2, 2, 2, 2]
+puppy   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 0, 0, 2]
+ducks [0, 2, 0, 0, 2]
+jumps [2, 2, 2, 2, 2]
+jumps   4
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 1, 0, 0]
+solid [2, 1, 1, 2, 0]
+spoil [2, 2, 2, 2, 2]
+spoil   4
+tears [1, 0, 2, 2, 0]
+apart [1, 0, 2, 2, 2]
+chart [0, 0, 2, 2, 2]
+quart [2, 2, 2, 2, 2]
+quart   4
+tears [0, 0, 1, 2, 0]
+carry [1, 2, 1, 2, 0]
+macro [2, 2, 2, 2, 2]
+macro   3
+tears [0, 2, 2, 2, 2]
+years [0, 2, 2, 2, 2]
+bears [0, 2, 2, 2, 2]
+hears [0, 2, 2, 2, 2]
+fears [2, 2, 2, 2, 2]
+fears   5
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 0, 2, 0]
+flung [2, 2, 2, 2, 2]
+flung   3
+tears [0, 0, 2, 2, 1]
+sharp [2, 0, 2, 2, 1]
+spark [2, 2, 2, 2, 2]
+spark   3
+tears [0, 0, 0, 0, 0]
+blind [0, 0, 1, 0, 2]
+vivid [2, 2, 2, 2, 2]
+vivid   3
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 0, 0]
+brook [2, 2, 2, 2, 2]
+brook   3
+tears [1, 1, 0, 1, 1]
+steer [2, 2, 2, 2, 2]
+steer   2
+tears [0, 0, 1, 1, 1]
+sugar [2, 0, 0, 2, 1]
+spray [2, 2, 2, 2, 2]
+spray   3
+tears [0, 2, 1, 0, 0]
+legal [0, 2, 0, 2, 0]
+decay [2, 2, 2, 2, 2]
+decay   3
+tears [1, 0, 0, 1, 2]
+sorts [1, 2, 2, 2, 2]
+ports [2, 2, 2, 2, 2]
+ports   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 1, 0, 2]
+focus [0, 2, 2, 0, 2]
+socks [2, 2, 2, 2, 2]
+socks   4
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 0, 0, 1]
+rural [1, 1, 1, 2, 0]
+urban [2, 2, 2, 2, 2]
+urban   4
+tears [0, 0, 2, 0, 2]
+glass [2, 1, 2, 1, 2]
+goals [2, 2, 2, 2, 2]
+goals   3
+tears [1, 0, 2, 1, 0]
+craft [0, 2, 2, 0, 2]
+grant [2, 2, 2, 2, 2]
+grant   3
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 1, 2]
+kinds [0, 2, 2, 0, 2]
+wings [0, 2, 2, 0, 2]
+minus [2, 2, 2, 2, 2]
+minus   5
+tears [0, 0, 0, 0, 2]
+lions [1, 2, 0, 0, 2]
+hills [0, 2, 2, 1, 2]
+films [2, 2, 2, 2, 2]
+films   4
+tears [2, 1, 0, 0, 2]
+tunes [2, 2, 2, 2, 2]
+tunes   2
+tears [1, 0, 2, 0, 1]
+slant [2, 0, 2, 0, 2]
+shaft [2, 2, 2, 2, 2]
+shaft   3
+tears [0, 0, 0, 1, 2]
+forms [2, 0, 2, 2, 2]
+firms [2, 2, 2, 2, 2]
+firms   3
+tears [0, 1, 0, 0, 2]
+miles [0, 1, 0, 2, 2]
+skies [2, 2, 2, 2, 2]
+skies   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 1, 1]
+pride [0, 2, 2, 2, 2]
+bride [2, 2, 2, 2, 2]
+bride   4
+tears [0, 1, 0, 1, 0]
+cried [1, 2, 0, 1, 0]
+wreck [2, 2, 2, 2, 2]
+wreck   3
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 0, 0, 0]
+clock [1, 2, 2, 2, 2]
+flock [2, 2, 2, 2, 2]
+flock   4
+tears [1, 1, 2, 2, 1]
+stare [2, 2, 2, 2, 2]
+stare   2
+tears [0, 0, 0, 0, 0]
+blind [1, 0, 0, 0, 0]
+hobby [2, 2, 2, 2, 2]
+hobby   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 1, 1, 2]
+bonds [2, 2, 2, 2, 2]
+bonds   3
+tears [0, 1, 1, 1, 0]
+cared [0, 2, 2, 2, 2]
+dared [2, 2, 2, 2, 2]
+dared   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 0, 1]
+named [0, 2, 0, 2, 2]
+waved [0, 2, 0, 2, 2]
+faded [2, 2, 2, 2, 2]
+faded   5
+tears [2, 1, 0, 0, 0]
+twice [2, 0, 2, 0, 1]
+thief [2, 2, 2, 2, 2]
+thief   3
+tears [0, 1, 0, 1, 0]
+cried [2, 2, 0, 1, 1]
+crude [2, 2, 2, 2, 2]
+crude   3
+tears [1, 0, 1, 0, 2]
+wants [0, 2, 2, 2, 2]
+pants [2, 2, 2, 2, 2]
+pants   3
+tears [1, 1, 0, 0, 0]
+fleet [2, 2, 1, 1, 1]
+flute [2, 2, 2, 2, 2]
+flute   3
+tears [1, 1, 0, 0, 2]
+steps [1, 1, 1, 0, 2]
+notes [0, 2, 2, 2, 2]
+votes [2, 2, 2, 2, 2]
+votes   4
+tears [2, 0, 1, 0, 0]
+total [2, 2, 1, 2, 2]
+tonal [2, 2, 2, 2, 2]
+tonal   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 0, 0, 2]
+radar [2, 2, 2, 2, 2]
+radar   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 1, 0, 2]
+cells [0, 2, 2, 2, 2]
+bells [0, 2, 2, 2, 2]
+wells [2, 2, 2, 2, 2]
+wells   5
+tears [0, 0, 0, 0, 1]
+shiny [2, 0, 0, 0, 0]
+skull [2, 2, 2, 2, 2]
+skull   3
+tears [0, 0, 1, 2, 2]
+pairs [0, 2, 2, 2, 2]
+hairs [2, 2, 2, 2, 2]
+hairs   3
+tears [0, 1, 1, 1, 0]
+cared [0, 1, 1, 1, 0]
+break [0, 2, 1, 1, 0]
+argue [2, 2, 2, 2, 2]
+argue   4
+tears [0, 2, 2, 2, 2]
+years [0, 2, 2, 2, 2]
+bears [0, 2, 2, 2, 2]
+hears [0, 2, 2, 2, 2]
+fears [0, 2, 2, 2, 2]
+wears [2, 2, 2, 2, 2]
+wears   6
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 1, 0, 2]
+holds [0, 2, 2, 1, 2]
+dolls [2, 2, 2, 2, 2]
+dolls   4
+tears [1, 1, 0, 0, 0]
+fleet [0, 0, 1, 2, 1]
+noted [0, 2, 2, 2, 2]
+voted [2, 2, 2, 2, 2]
+voted   4
+tears [0, 1, 1, 0, 2]
+games [0, 2, 0, 2, 2]
+cases [2, 2, 1, 2, 2]
+cakes [2, 2, 0, 2, 2]
+caves [2, 2, 2, 2, 2]
+caves   5
+tears [0, 1, 1, 1, 0]
+cared [2, 2, 2, 2, 2]
+cared   2
+tears [0, 0, 0, 1, 0]
+round [1, 1, 0, 0, 0]
+brook [2, 2, 2, 2, 0]
+broom [2, 2, 2, 2, 2]
+broom   4
+tears [1, 1, 0, 0, 1]
+spent [2, 0, 2, 2, 2]
+scent [2, 2, 2, 2, 2]
+scent   3
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 1, 1]
+panel [2, 2, 2, 2, 2]
+panel   3
+tears [0, 0, 1, 2, 0]
+carry [0, 2, 1, 2, 2]
+dairy [0, 2, 2, 2, 2]
+fairy [2, 2, 2, 2, 2]
+fairy   4
+tears [0, 1, 0, 0, 0]
+loved [1, 1, 1, 1, 0]
+olive [2, 2, 2, 2, 2]
+olive   3
+tears [0, 2, 0, 0, 2]
+seeds [1, 2, 1, 2, 2]
+bends [2, 2, 2, 2, 2]
+bends   3
+tears [0, 0, 0, 1, 1]
+brush [0, 2, 0, 2, 0]
+prism [2, 2, 2, 2, 2]
+prism   3
+tears [0, 0, 1, 0, 2]
+banks [0, 2, 0, 0, 2]
+walls [0, 2, 1, 1, 2]
+lamps [2, 2, 2, 2, 2]
+lamps   4
+tears [0, 1, 1, 0, 0]
+cable [2, 2, 2, 2, 2]
+cable   2
+tears [0, 2, 2, 0, 0]
+peace [2, 2, 2, 2, 1]
+peach [2, 2, 2, 2, 2]
+peach   3
+tears [0, 0, 0, 1, 2]
+forms [0, 0, 1, 0, 2]
+rings [2, 1, 1, 0, 2]
+ruins [2, 2, 2, 2, 2]
+ruins   4
+tears [0, 0, 1, 1, 0]
+mayor [0, 2, 1, 0, 1]
+rainy [2, 2, 0, 0, 2]
+rally [2, 2, 2, 2, 2]
+rally   4
+tears [0, 0, 1, 0, 1]
+sandy [2, 1, 0, 0, 0]
+schwa [2, 2, 2, 2, 2]
+schwa   3
+tears [0, 0, 1, 0, 2]
+banks [1, 2, 0, 0, 2]
+lambs [2, 2, 2, 2, 2]
+lambs   3
+tears [0, 2, 0, 0, 2]
+seeds [2, 2, 1, 0, 2]
+sells [2, 2, 2, 2, 2]
+sells   3
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 2, 0, 2]
+flows [0, 1, 2, 0, 2]
+cools [2, 2, 2, 2, 2]
+cools   4
+tears [1, 0, 2, 1, 0]
+craft [0, 2, 2, 2, 2]
+draft [2, 2, 2, 2, 2]
+draft   3
+tears [0, 0, 2, 2, 0]
+board [0, 0, 2, 2, 0]
+alarm [1, 0, 2, 2, 2]
+charm [2, 2, 2, 2, 2]
+charm   4
+tears [0, 0, 0, 0, 2]
+lions [2, 2, 0, 0, 2]
+limbs [2, 2, 2, 2, 2]
+limbs   3
+tears [0, 1, 2, 1, 0]
+grave [0, 2, 2, 0, 2]
+frame [0, 2, 2, 0, 2]
+brake [2, 2, 2, 2, 2]
+brake   4
+tears [0, 1, 1, 0, 0]
+cable [0, 2, 0, 0, 1]
+named [0, 2, 0, 2, 2]
+waved [0, 2, 0, 2, 2]
+faded [0, 2, 1, 2, 2]
+gazed [2, 2, 2, 2, 2]
+gazed   6
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [1, 0, 0, 2, 2]
+cubes [2, 2, 2, 2, 2]
+cubes   4
+tears [0, 2, 1, 0, 0]
+legal [1, 2, 0, 2, 1]
+delay [2, 2, 2, 2, 2]
+delay   3
+tears [0, 2, 2, 0, 2]
+beams [2, 2, 2, 2, 2]
+beams   2
+tears [1, 2, 0, 0, 0]
+depth [0, 2, 0, 1, 2]
+fetch [2, 2, 2, 2, 2]
+fetch   3
+tears [0, 0, 1, 1, 2]
+marks [0, 2, 1, 2, 2]
+ranks [2, 2, 2, 2, 2]
+ranks   3
+tears [0, 0, 1, 1, 0]
+mayor [0, 1, 1, 0, 1]
+array [2, 2, 2, 2, 2]
+array   3
+tears [0, 0, 1, 1, 1]
+sugar [1, 0, 0, 1, 1]
+harsh [2, 2, 2, 2, 2]
+harsh   3
+tears [0, 1, 1, 0, 0]
+cable [2, 2, 0, 1, 1]
+camel [2, 2, 2, 2, 2]
+camel   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 0, 2, 2]
+sides [1, 2, 0, 2, 2]
+gives [0, 2, 1, 2, 2]
+vines [2, 2, 2, 2, 2]
+vines   5
+tears [0, 0, 0, 0, 2]
+lions [0, 2, 0, 0, 2]
+picks [2, 2, 2, 2, 2]
+picks   3
+tears [0, 0, 1, 0, 0]
+canal [0, 2, 1, 2, 2]
+naval [2, 2, 2, 2, 2]
+naval   3
+tears [0, 1, 0, 1, 1]
+horse [0, 0, 2, 2, 2]
+purse [2, 2, 2, 2, 2]
+purse   3
+tears [0, 0, 0, 1, 0]
+round [2, 0, 0, 0, 2]
+rigid [2, 2, 2, 2, 2]
+rigid   3
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 0, 0]
+crack [2, 2, 2, 1, 0]
+crazy [2, 2, 2, 0, 0]
+crawl [2, 2, 2, 2, 2]
+crawl   5
+tears [2, 0, 2, 0, 1]
+toast [2, 2, 2, 2, 2]
+toast   2
+tears [0, 0, 0, 0, 2]
+lions [1, 1, 1, 0, 2]
+soils [2, 2, 2, 2, 2]
+soils   3
+tears [0, 1, 1, 0, 1]
+sauce [2, 2, 2, 2, 2]
+sauce   2
+tears [0, 0, 1, 0, 1]
+sandy [1, 2, 1, 0, 0]
+basin [2, 2, 2, 2, 2]
+basin   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 1, 1, 2]
+bonds [0, 2, 2, 2, 2]
+ponds [2, 2, 2, 2, 2]
+ponds   4
+tears [2, 0, 0, 0, 2]
+towns [2, 0, 1, 2, 2]
+twins [2, 2, 2, 2, 2]
+twins   3
+tears [1, 0, 0, 1, 1]
+first [0, 1, 1, 2, 2]
+wrist [2, 2, 2, 2, 2]
+wrist   3
+tears [0, 0, 0, 0, 0]
+blind [0, 2, 1, 0, 2]
+fluid [2, 2, 2, 2, 2]
+fluid   3
+tears [0, 0, 0, 0, 2]
+lions [1, 0, 2, 0, 2]
+flows [0, 1, 2, 0, 2]
+cools [0, 2, 2, 2, 2]
+pools [2, 2, 2, 2, 2]
+pools   5
+tears [0, 0, 2, 1, 0]
+grand [0, 2, 2, 2, 2]
+brand [2, 2, 2, 2, 2]
+brand   3
+tears [1, 0, 2, 0, 1]
+slant [2, 1, 2, 0, 1]
+stall [2, 2, 2, 2, 1]
+stalk [2, 2, 2, 2, 2]
+stalk   4
+tears [1, 0, 0, 1, 0]
+forth [0, 2, 1, 1, 0]
+motor [0, 2, 1, 2, 1]
+robot [2, 2, 2, 2, 2]
+robot   4
+tears [0, 2, 0, 1, 2]
+verbs [0, 2, 1, 0, 2]
+reeds [2, 2, 2, 2, 2]
+reeds   3
+tears [0, 0, 0, 0, 2]
+lions [0, 0, 2, 0, 2]
+woods [0, 2, 2, 0, 2]
+books [0, 2, 2, 0, 2]
+hoofs [2, 2, 2, 2, 2]
+hoofs   5
+tears [0, 1, 0, 0, 2]
+miles [0, 0, 0, 2, 2]
+bones [2, 0, 0, 2, 2]
+buses [2, 2, 2, 2, 2]
+buses   4
+tears [0, 1, 0, 1, 1]
+horse [1, 0, 1, 1, 1]
+sheer [2, 2, 2, 2, 2]
+sheer   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 2, 2, 0]
+brief [0, 2, 2, 2, 2]
+grief [2, 2, 2, 2, 2]
+grief   4
+tears [0, 0, 0, 0, 0]
+blind [2, 2, 0, 0, 0]
+block [2, 2, 2, 0, 0]
+bloom [2, 2, 2, 2, 2]
+bloom   4
+tears [1, 1, 0, 0, 0]
+fleet [0, 1, 2, 1, 2]
+dwelt [2, 2, 2, 2, 2]
+dwelt   3
+tears [1, 2, 0, 0, 2]
+cents [0, 2, 0, 2, 2]
+belts [0, 2, 2, 2, 2]
+melts [2, 2, 2, 2, 2]
+melts   4
+tears [0, 1, 0, 1, 1]
+horse [0, 0, 1, 1, 1]
+risen [2, 2, 2, 2, 2]
+risen   3
+tears [0, 0, 2, 0, 2]
+glass [1, 2, 2, 1, 2]
+flags [2, 2, 2, 2, 2]
+flags   3
+tears [1, 1, 0, 0, 0]
+fleet [0, 1, 2, 1, 2]
+dwelt [0, 0, 2, 2, 2]
+knelt [2, 2, 2, 2, 2]
+knelt   4
+tears [0, 1, 0, 1, 0]
+cried [0, 1, 1, 2, 0]
+river [1, 2, 0, 2, 2]
+fiber [2, 2, 2, 2, 2]
+fiber   4
+tears [0, 0, 0, 1, 2]
+forms [1, 2, 1, 0, 2]
+roofs [2, 2, 2, 2, 2]
+roofs   3
+tears [0, 1, 0, 1, 0]
+cried [0, 2, 0, 2, 2]
+urged [0, 2, 0, 2, 2]
+freed [2, 2, 2, 2, 2]
+freed   4
+tears [0, 0, 1, 1, 0]
+mayor [1, 1, 0, 2, 2]
+armor [2, 2, 2, 2, 2]
+armor   3
+tears [0, 1, 0, 0, 2]
+miles [0, 2, 2, 2, 2]
+piles [2, 2, 2, 2, 2]
+piles   3
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 0, 1]
+added [2, 1, 1, 2, 2]
+aimed [2, 2, 2, 2, 2]
+aimed   4
+tears [0, 1, 1, 0, 0]
+cable [0, 1, 0, 1, 2]
+alike [2, 2, 0, 0, 2]
+alone [2, 2, 0, 0, 2]
+algae [2, 2, 2, 2, 2]
+algae   5
+tears [2, 0, 0, 0, 2]
+towns [2, 0, 1, 0, 2]
+twigs [2, 2, 2, 2, 2]
+twigs   3
+tears [0, 2, 0, 0, 0]
+bench [0, 2, 1, 0, 0]
+newly [1, 2, 0, 1, 0]
+lemon [2, 2, 2, 2, 2]
+lemon   4
+tears [1, 0, 0, 0, 0]
+month [0, 0, 0, 1, 2]
+pitch [0, 2, 2, 2, 2]
+witch [0, 2, 2, 2, 2]
+ditch [2, 2, 2, 2, 2]
+ditch   5

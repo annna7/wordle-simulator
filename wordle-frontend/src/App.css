@@ -1,0 +1,52 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    background-color: #1c1c1c;
+    color: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+}
+
+.gray {
+    background-color: #151515;
+}
+
+.green {
+    background-color: #059e45;
+}
+
+.yellow {
+    background-color: #e9bc18;
+}
+
+.guess-button {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 0.5em;
+    background-color: #151515;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 10px auto;
+}
+
+.guess-button:hover {
+    background-color: #333333;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.red {
+    background-color: #525252;
+}
