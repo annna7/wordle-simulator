@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wordle-Simulator/static/css/main.1a2c091f.css",
+    "main.js": "/Wordle-Simulator/static/js/main.26457e83.js",
+    "index.html": "/Wordle-Simulator/index.html",
+    "main.1a2c091f.css.map": "/Wordle-Simulator/static/css/main.1a2c091f.css.map",
+    "main.26457e83.js.map": "/Wordle-Simulator/static/js/main.26457e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2c091f.css",
+    "static/js/main.26457e83.js"
+  ]
+}
