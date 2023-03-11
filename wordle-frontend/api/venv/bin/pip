@@ -1,4 +1,4 @@
-#!/home/anna/WebstormProjects/Wordle-Simulator/wordle-frontend/api/venv/bin/python3
+#!/home/anna/WebstormProjects/Wordle-Simulator/wordle-frontend/api/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
