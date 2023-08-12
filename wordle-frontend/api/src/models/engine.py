@@ -1,15 +1,16 @@
 import math
-import helper
+import src.helper as helper
+from src.constants import LENGTH, STARTER_WORD, BUCKETS_COUNT
 
 
 class Engine:
     def __init__(self):
         self.possible_words = helper.get_possible_words()
-        self.length = 5
-        self.buckets_count = 243
-        self.starter_word = "tears" # self.getBestWord() on first run, won't change so can be hardcoded
+        self.length = LENGTH
+        self.buckets_count = BUCKETS_COUNT
+        self.starter_word = STARTER_WORD
 
-    def computeEntropy(self, word):
+    def compute_entropy(self, word):
         buckets = [0] * self.buckets_count
         for secret_candidate in self.possible_words:
             feedback = helper.feedback_to_number(helper.get_feedback(secret_candidate, word))
@@ -24,18 +25,18 @@ class Engine:
     
     def restrict_possible_words(self, best_word, feedback):
         self.possible_words = [word for word in self.possible_words if helper.get_feedback(word, best_word) == feedback]
-    
-    def getBestWord(self):
+
+    def get_best_word(self):
         if len(self.possible_words) >= 900:
             return self.starter_word
         if len(self.possible_words) == 1:
             return self.possible_words[0]
         if len(self.possible_words) == 0:
-            return ""
-        best_word = ""
+            return ''
+        best_word = ''
         best_entropy = 0
         for word in self.possible_words:
-            entropy = self.computeEntropy(word)
+            entropy = self.compute_entropy(word)
             if entropy > best_entropy:
                 best_entropy = entropy
                 best_word = word
