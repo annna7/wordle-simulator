@@ -13,8 +13,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start --ignore client",
-    "start-api": "cd api && venv/bin/flask run --no-debugger",
+    "start": "react-scripts start",
+    "start-api-linux": "cd ../api && flask run --no-debugger",
+    "start-api-windows": "cd ..\\api && flask run --no-debugger",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
