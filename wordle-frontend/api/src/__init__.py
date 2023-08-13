@@ -1,1 +1,1 @@
-from .controllers import game_controller, main_controller
+from .controllers import game_controller, main_controller, simulation_controller

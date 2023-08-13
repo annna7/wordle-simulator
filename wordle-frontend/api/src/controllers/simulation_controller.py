@@ -1,12 +1,13 @@
 from flask import jsonify
 from src.models.game import Game
 from src.models.engine import Engine
-from src.routes import main_bp
+from src.routes import simulation_bp
+from src import helper
+from src.constants import GREEN, LENGTH
 
 
-@main_bp.route('/simulate')
+@simulation_bp.route('/', methods=['GET'])
 def simulate_game():
-    return jsonify({"target_word": 'hello'})
     average_guesses = 0
     results = []
     for word in helper.get_possible_words():
@@ -24,4 +25,5 @@ def simulate_game():
                 average_guesses += guesses
                 break
             engine.restrict_possible_words(new_guess, game.get_feedback(new_guess))
-    return {'average_guesses': average_guesses / len(helper.get_possible_words()), 'results': results}
+    return jsonify({'average_guesses': average_guesses / len(helper.get_possible_words()), 'results': results})
+
