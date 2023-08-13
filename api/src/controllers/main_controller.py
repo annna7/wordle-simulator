@@ -1,11 +1,6 @@
-from src.models.game import Game
-from src.models.engine import Engine
-from flask import Blueprint, jsonify, request
+from flask import jsonify
 from src.routes import main_bp
-
-
-game = Game()
-engine = Engine()
+import src.menu as menu
 
 
 @main_bp.route('/')
@@ -15,19 +10,15 @@ def index():
 
 @main_bp.route('/optimal_guess', methods=['GET'])
 def get_optimal_guess():
-    global engine
-    guess = engine.get_best_word()
-    feedback = game.get_feedback(guess)
-    engine.restrict_possible_words(guess, feedback)
+    guess = menu.engine.get_best_word()
+    feedback = menu.game.get_feedback(guess)
+    menu.engine.restrict_possible_words(guess, feedback)
     return jsonify({'optimal_guess': guess, 'feedback': feedback})
 
 
 @main_bp.route('/reset_engine')
 def reset_engine():
-    global game
-    global engine
-    game = Game()
-    engine = Engine()
-    return jsonify({"target_word": game.target_word})
+    menu.reset_game_and_engine()
+    return jsonify({"target_word": menu.game.target_word})
 
 

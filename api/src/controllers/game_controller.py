@@ -1,24 +1,16 @@
 from flask import jsonify, request
-from src.routes import game_bp
-from src.models.game import Game
 from src.helper import is_valid_word
-
-game = Game()
+from src.routes import game_bp
+import src.menu as menu
 
 
 @game_bp.route('/valid_word', methods=['POST'])
-def is_valid_word():
-    global game
+def validate_word():
     word = request.get_json()['word']
-    is_valid = is_valid_word(word)
-    if is_valid:
-        feedback = game.get_feedback(word)
-    else:
-        feedback = []
-    return jsonify({'valid_word': is_valid, 'feedback': feedback})
+    feedback = menu.game.get_feedback(word) if is_valid_word(word) else []
+    return jsonify({'valid_word': is_valid_word(word), 'feedback': feedback})
 
 
 @game_bp.route('/target', methods=['GET'])
 def get_target():
-    global game
-    return jsonify({'target_word': game.target_word})
+    return jsonify({'target_word': menu.game.target_word})
