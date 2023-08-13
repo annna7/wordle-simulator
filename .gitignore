@@ -4,6 +4,8 @@
 
 api/.idea
 api/venv
+api/.gitignore
+api/__pycache__
 
 # dependencies
 frontend/node_modules
@@ -27,7 +29,5 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
-api/.gitignore
-api/__pycache__
 
 .idea
